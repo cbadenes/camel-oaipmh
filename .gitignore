@@ -5,3 +5,6 @@
 #Java
 *.jar
 target/
+
+#JAXB
+es/upm/oeg/camel/oaipmh/message/

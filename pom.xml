@@ -7,7 +7,7 @@
     <groupId>es.upm.oeg.camel</groupId>
     <artifactId>camel-oaipmh</artifactId>
     <packaging>bundle</packaging>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
 
     <name>Camel OAIPMH Component</name>
     <inceptionYear>2015</inceptionYear>
@@ -23,6 +23,8 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <camel.version>2.14.1</camel.version>
         <httpclient.version>4.4</httpclient.version>
+        <java.version>1.7</java.version>
+        <jaxb2.version>1.6</jaxb2.version>
         <joda.version>2.7</joda.version>
         <log4j.version>1.2.17</log4j.version>
         <lombok.version>1.16.2</lombok.version>
@@ -84,15 +86,45 @@
 
     <build>
         <defaultGoal>install</defaultGoal>
-
+        <pluginManagement>
+            <plugins>
+                <plugin>
+                    <groupId>org.apache.maven.plugins</groupId>
+                    <artifactId>maven-compiler-plugin</artifactId>
+                    <configuration>
+                        <source>${java.version}</source>
+                        <target>${java.version}</target>
+                    </configuration>
+                </plugin>
+            </plugins>
+        </pluginManagement>
         <plugins>
+            <plugin>
+                <groupId>org.codehaus.mojo</groupId>
+                <artifactId>jaxb2-maven-plugin</artifactId>
+                <version>${jaxb2.version}</version>
+                <executions>
+                    <execution>
+                        <id>xjc</id>
+                        <goals>
+                            <goal>xjc</goal>
+                        </goals>
+                    </execution>
+                </executions>
+                <configuration>
+                    <packageName>es.upm.oeg.camel.oaipmh.message</packageName>
+                    <outputDirectory>src/main/java</outputDirectory>
+                    <addGeneratedAnnotation>true</addGeneratedAnnotation>
+                    <clearOutputDir>false</clearOutputDir>
+                </configuration>
+            </plugin>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
                 <version>2.5.1</version>
                 <configuration>
-                    <source>1.6</source>
-                    <target>1.6</target>
+                    <source>${java.version}</source>
+                    <target>${java.version}</target>
                 </configuration>
             </plugin>
             <plugin>
@@ -100,7 +132,7 @@
                 <artifactId>maven-resources-plugin</artifactId>
                 <version>2.6</version>
                 <configuration>
-                    <encoding>UTF-8</encoding>
+                    <encoding>${project.build.sourceEncoding}</encoding>
                 </configuration>
             </plugin>
             <!-- to generate the MANIFEST-FILE of the bundle -->
