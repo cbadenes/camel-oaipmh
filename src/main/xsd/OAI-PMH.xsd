@@ -2,6 +2,7 @@
         xmlns="http://www.w3.org/2001/XMLSchema"
         xmlns:oai="http://www.openarchives.org/OAI/2.0/"
         xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+        xmlns:provenance="http://www.openarchives.org/OAI/2.0/provenance"
         elementFormDefault="qualified"
         attributeFormDefault="unqualified">
 
@@ -23,8 +24,10 @@
   </annotation>
 
   <import namespace="http://www.openarchives.org/OAI/2.0/oai_dc/"
-               schemaLocation="oai_dc.xsd">
-  </import>
+          schemaLocation="oai_dc.xsd" />
+
+  <import namespace="http://www.openarchives.org/OAI/2.0/provenance"
+          schemaLocation="provenance.xsd"/>
 
   <element name="OAI-PMH" type="oai:OAI-PMHtype"/>
 
@@ -210,7 +213,8 @@
       that is compliant with an XML Schema defined by a community.</documentation>
     </annotation>
     <sequence>
-      <any namespace="##other" processContents="strict"/>
+        <element name="provenance" type="provenance:provenanceType"/>
+      <!--<any namespace="##other" processContents="strict"/>-->
     </sequence>
   </complexType>
 
