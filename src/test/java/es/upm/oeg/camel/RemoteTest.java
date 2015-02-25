@@ -1,6 +1,5 @@
 package es.upm.oeg.camel;
 
-import es.upm.oeg.camel.dataformat.oaipmh.OAIPMHDataFormat;
 import org.apache.camel.builder.RouteBuilder;
 import org.apache.camel.component.mock.MockEndpoint;
 import org.apache.camel.test.junit4.CamelTestSupport;
@@ -20,12 +19,16 @@ public class RemoteTest extends CamelTestSupport {
 
     @Override
     protected RouteBuilder createRouteBuilder() throws Exception {
+
+
         return new RouteBuilder() {
             public void configure() {
                 from("oaipmh://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/oai?" +
                         "delay=60000&" +
                         "from=2013-01-01T00:00:00Z&"+
-                        "initialDelay=2000").to("mock:result");
+                        "initialDelay=2000")
+                        .unmarshal().jaxb("es.upm.oeg.camel.oaipmh.message")
+                        .to("mock:result");
             }
         };
     }
