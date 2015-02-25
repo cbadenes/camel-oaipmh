@@ -1,6 +1,7 @@
 <schema targetNamespace="http://www.openarchives.org/OAI/2.0/"
         xmlns="http://www.w3.org/2001/XMLSchema"
         xmlns:oai="http://www.openarchives.org/OAI/2.0/"
+        xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
         elementFormDefault="qualified"
         attributeFormDefault="unqualified">
 
@@ -20,6 +21,10 @@
     $Date: 2004/10/12 15:20:29 $
     </documentation>
   </annotation>
+
+  <import namespace="http://www.openarchives.org/OAI/2.0/oai_dc/"
+               schemaLocation="oai_dc.xsd">
+  </import>
 
   <element name="OAI-PMH" type="oai:OAI-PMHtype"/>
 
@@ -194,7 +199,8 @@
        explicitly qualified in the response.</documentation>
     </annotation>
     <sequence>
-      <any namespace="##other" processContents="strict"/>
+        <element name="dc" type="oai_dc:oai_dcType"/>
+      <!--<any namespace="##other" processContents="strict"/>-->
     </sequence>
   </complexType>
 
