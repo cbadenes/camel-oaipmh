@@ -1,5 +1,6 @@
-package es.upm.oeg.camel;
+package es.upm.oeg.camel.component;
 
+import es.upm.oeg.camel.oaipmh.message.ResumptionTokenType;
 import org.apache.http.HttpEntity;
 import org.apache.http.HttpResponse;
 import org.apache.http.client.ClientProtocolException;
@@ -26,6 +27,10 @@ public class OAIPMHHttpClient {
 
     public String doRequest(OAIPMHEndpoint endpoint) throws IOException, URISyntaxException {
 
+        return doRequest(endpoint,null);
+    }
+
+    public String doRequest(OAIPMHEndpoint endpoint, ResumptionTokenType token) throws IOException, URISyntaxException {
         CloseableHttpClient httpclient = HttpClients.createDefault();
         try {
 
@@ -38,6 +43,10 @@ public class OAIPMHHttpClient {
                     .setParameter("verb", endpoint.getVerb())
                     .setParameter("metadataPrefix", endpoint.getMetadataPrefix())
                     .setParameter("from", endpoint.getFrom());
+
+            if (token != null){
+                builder.addParameter("resumptionToken", String.valueOf(token.getCursor()));
+            }
 
 
             HttpGet httpget = new HttpGet(builder.build());
@@ -52,8 +61,8 @@ public class OAIPMHHttpClient {
                     int status = response.getStatusLine().getStatusCode();
                     if (status >= 200 && status < 300) {
                         HttpEntity entity = response.getEntity();
-                        //TODO Handle HTTP entity too large to be buffered in memory
-                        return entity != null ? EntityUtils.toString(entity, Charset.forName("UTF-8")) : null;
+                        if (entity == null) throw new IOException("No response received");
+                        return EntityUtils.toString(entity, Charset.forName("UTF-8"));
                     } else {
                         throw new ClientProtocolException("Unexpected response status: " + status);
                     }
@@ -66,6 +75,7 @@ public class OAIPMHHttpClient {
         } finally {
             httpclient.close();
         }
+
     }
 
 }

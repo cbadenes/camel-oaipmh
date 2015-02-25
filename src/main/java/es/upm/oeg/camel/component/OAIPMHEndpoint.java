@@ -1,21 +1,11 @@
-package es.upm.oeg.camel;
+package es.upm.oeg.camel.component;
 
 import lombok.Data;
 import lombok.EqualsAndHashCode;
-import lombok.Getter;
-import lombok.Setter;
 import org.apache.camel.*;
-import org.apache.camel.impl.DefaultEndpoint;
 import org.apache.camel.impl.DefaultPollingEndpoint;
-import org.apache.camel.spi.UriEndpoint;
 import org.apache.camel.spi.UriParam;
-import org.joda.time.DateTime;
-import org.joda.time.format.DateTimeFormatter;
 import org.joda.time.format.ISODateTimeFormat;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
-
-import java.util.Map;
 
 /**
  * Represents a OAIPMH endpoint.

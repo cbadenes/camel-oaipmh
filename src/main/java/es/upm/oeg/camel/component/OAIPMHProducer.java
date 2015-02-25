@@ -1,4 +1,4 @@
-package es.upm.oeg.camel;
+package es.upm.oeg.camel.component;
 
 import org.apache.camel.Exchange;
 import org.apache.camel.impl.DefaultProducer;

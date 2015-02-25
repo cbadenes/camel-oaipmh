@@ -1,8 +1,8 @@
 package es.upm.oeg.camel;
 
+import es.upm.oeg.camel.dataformat.oaipmh.OAIPMHConverter;
 import es.upm.oeg.camel.oaipmh.message.*;
 import org.junit.Assert;
-import org.junit.Before;
 import org.junit.Test;
 
 import javax.xml.bind.JAXBElement;
@@ -13,13 +13,6 @@ import java.util.List;
 
 public class ParseTest {
 
-
-    private OAIPMHHttpParser parser;
-
-    @Before
-    public void setup() throws JAXBException {
-        this.parser = new OAIPMHHttpParser();
-    }
 
     @Test
     public void errorHandlingWhenillegalVerbArgument() throws JAXBException, IOException {
@@ -34,7 +27,7 @@ public class ParseTest {
                 "  <error code=\"badVerb\">Illegal OAI verb</error>\n" +
                 "</OAI-PMH>";
 
-        OAIPMHtype message = this.parser.unmarshall(xml, OAIPMHtype.class);
+        OAIPMHtype message = OAIPMHConverter.xmlToOaipmh(xml);
         OAIPMHerrorType error = message.getError().get(0);
         OAIPMHerrorcodeType code = error.getCode();
 
@@ -55,7 +48,7 @@ public class ParseTest {
                 "  <error code=\"noSetHierarchy\">This repository does not support sets</error>\n" +
                 "</OAI-PMH>";
 
-        OAIPMHtype message = this.parser.unmarshall(xml, OAIPMHtype.class);
+        OAIPMHtype message = OAIPMHConverter.xmlToOaipmh(xml);
         OAIPMHerrorType error = message.getError().get(0);
         OAIPMHerrorcodeType code = error.getCode();
 
@@ -65,7 +58,7 @@ public class ParseTest {
 
 
     @Test
-    public void listRecords() throws JAXBException, IOException {
+    public void listRecordsRequest() throws JAXBException, IOException {
 
         String xml = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n" +
                 "<OAI-PMH xmlns=\"http://www.openarchives.org/OAI/2.0/\" \n" +
@@ -144,7 +137,7 @@ public class ParseTest {
                 " </ListRecords>\n" +
                 "</OAI-PMH>";
 
-        OAIPMHtype message = this.parser.unmarshall(xml, OAIPMHtype.class);
+        OAIPMHtype message = OAIPMHConverter.xmlToOaipmh(xml);
 
         // responseDate 2002-06-01T19:20:30Z
         XMLGregorianCalendar date = message.getResponseDate();

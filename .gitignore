@@ -7,4 +7,4 @@
 target/
 
 #JAXB
-es/upm/oeg/camel/oaipmh/message/
+src/main/java/es/upm/oeg/camel/oaipmh/message/

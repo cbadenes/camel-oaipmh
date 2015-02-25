@@ -1,11 +1,9 @@
-package es.upm.oeg.camel;
+package es.upm.oeg.camel.component;
 
 import java.util.Map;
 
 import org.apache.camel.Endpoint;
 import org.apache.camel.impl.DefaultComponent;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
 
 /**
  * Represents the component that manages {@link OAIPMHEndpoint}.

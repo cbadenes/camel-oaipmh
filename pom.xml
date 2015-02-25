@@ -23,7 +23,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <camel.version>2.14.1</camel.version>
         <httpclient.version>4.4</httpclient.version>
-        <java.version>1.7</java.version>
+        <java.version>1.8</java.version>
         <jaxb2.version>1.6</jaxb2.version>
         <joda.version>2.7</joda.version>
         <log4j.version>1.2.17</log4j.version>
@@ -173,7 +173,7 @@
                 <extensions>true</extensions>
                 <configuration>
                     <instructions>
-                        <Bundle-SymbolicName>es.upm.oeg.camel.camel-oaipmh</Bundle-SymbolicName>
+                        <Bundle-SymbolicName>es.upm.oeg.camel.component.camel-oaipmh</Bundle-SymbolicName>
                         <Export-Service>org.apache.camel.spi.ComponentResolver;component=oaipmh</Export-Service>
                     </instructions>
                 </configuration>

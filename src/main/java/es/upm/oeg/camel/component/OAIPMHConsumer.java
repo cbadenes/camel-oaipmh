@@ -1,10 +1,12 @@
-package es.upm.oeg.camel;
+package es.upm.oeg.camel.component;
 
 import org.apache.camel.Exchange;
 import org.apache.camel.Processor;
 import org.apache.camel.impl.DefaultScheduledPollConsumer;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+
+import javax.xml.bind.JAXBException;
 
 /**
  * The OAIPMH consumer.
@@ -17,7 +19,7 @@ public class OAIPMHConsumer extends DefaultScheduledPollConsumer {
 
     private final OAIPMHHttpClient httpClient;
 
-    public OAIPMHConsumer(OAIPMHEndpoint endpoint, Processor processor) {
+    public OAIPMHConsumer(OAIPMHEndpoint endpoint, Processor processor) throws JAXBException {
         super(endpoint, processor);
         this.endpoint = endpoint;
         this.httpClient = new OAIPMHHttpClient();
@@ -27,14 +29,14 @@ public class OAIPMHConsumer extends DefaultScheduledPollConsumer {
     protected int poll() throws Exception {
 
         //Http-GET
-        String response = httpClient.doRequest(endpoint);
+        String xml = httpClient.doRequest(endpoint);
 
         //TODO Handle resumptionToken
 
         Exchange exchange = endpoint.createExchange();
 
         // create a message body
-        exchange.getIn().setBody(response);
+        exchange.getIn().setBody(xml);
 
         try {
             // send message to next processor in the route
