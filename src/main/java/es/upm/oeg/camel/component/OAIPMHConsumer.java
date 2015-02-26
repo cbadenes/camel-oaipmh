@@ -1,12 +1,22 @@
 package es.upm.oeg.camel.component;
 
-import org.apache.camel.Exchange;
+import es.upm.oeg.camel.dataformat.oaipmh.OAIPMHConverter;
+import es.upm.oeg.camel.oaipmh.handler.ResponseHandler;
+import es.upm.oeg.camel.oaipmh.message.OAIPMHerrorType;
+import es.upm.oeg.camel.oaipmh.message.OAIPMHtype;
+import es.upm.oeg.camel.oaipmh.message.ObjectFactory;
+import es.upm.oeg.camel.oaipmh.message.ResumptionTokenType;
+import es.upm.oeg.camel.oaipmh.handler.ResponseHandlerFactory;
 import org.apache.camel.Processor;
 import org.apache.camel.impl.DefaultScheduledPollConsumer;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import javax.xml.bind.JAXBException;
+import java.io.IOException;
+import java.net.URI;
+import java.net.URISyntaxException;
+import java.util.List;
 
 /**
  * The OAIPMH consumer.
@@ -15,43 +25,70 @@ public class OAIPMHConsumer extends DefaultScheduledPollConsumer {
 
     private static final Logger LOG = LoggerFactory.getLogger(OAIPMHConsumer.class);
 
-    private final OAIPMHEndpoint endpoint;
+    private static final ResumptionTokenType NO_TOKEN = null;
 
+    private final OAIPMHEndpoint endpoint;
     private final OAIPMHHttpClient httpClient;
+    private final ObjectFactory factory;
+    private final URI baseURI;
+    private final String verb;
+    private final String metadata;
+    private final ResponseHandler handler;
+    private String until;
+    private String from;
 
     public OAIPMHConsumer(OAIPMHEndpoint endpoint, Processor processor) throws JAXBException {
         super(endpoint, processor);
-        this.endpoint = endpoint;
+        this.endpoint   = endpoint;
         this.httpClient = new OAIPMHHttpClient();
+        this.factory    = new ObjectFactory();
+        this.from       = endpoint.getFrom();
+        this.baseURI    = URI.create("http://" + endpoint.getUrl());
+        this.verb       = endpoint.getVerb();
+        this.metadata   = endpoint.getMetadataPrefix();
+        this.until      = null; // future feature
+        this.handler    = ResponseHandlerFactory.newInstance(this,verb);
     }
 
     @Override
     protected int poll() throws Exception {
+        return poll(NO_TOKEN);
+    }
 
-        //Http-GET
-        String xml = httpClient.doRequest(endpoint);
+    protected int poll(ResumptionTokenType token) throws IOException, URISyntaxException, JAXBException {
+        // request 'verb' to remote data provider
+        String responseXML = httpClient.doRequest(baseURI,verb,from,until,metadata,token);
 
-        //TODO Handle resumptionToken
+        // Update reference time
+        this.from = TimeUtils.current();
 
-        Exchange exchange = endpoint.createExchange();
+        // build a java object from xml
+        OAIPMHtype responseObject = OAIPMHConverter.xmlToOaipmh(responseXML);
 
-        // create a message body
-        exchange.getIn().setBody(xml);
-
-        try {
-            // send message to next processor in the route
-            getProcessor().process(exchange);
-            return 1; // number of messages polled
-        } finally {
-            // log exception if an exception occurred and was not handled
-            if (exchange.getException() != null) {
-                getExceptionHandler().handleException("Error processing exchange", exchange, exchange.getException());
-            }
+        // Check if error
+        //TODO Retries Policy
+        if (handleErrors(responseObject)){
+            return 0;
         }
+
+        // Split and send records to camel route (background mode)
+        this.handler.process(responseObject);
+
+        // Check if incomplete list
+        ResumptionTokenType newToken = responseObject.getListRecords().getResumptionToken();
+        return ((newToken.getValue() != null) && !(newToken.getValue().startsWith(" ")))? poll(newToken) : 1;
     }
 
 
-
-
+    private boolean handleErrors(OAIPMHtype message){
+        List<OAIPMHerrorType> errors = message.getError();
+        if ((errors != null) && (!errors.isEmpty())){
+            for (OAIPMHerrorType error: errors){
+                LOG.error("Error on [{}] getting records: {}-{}", endpoint.getUrl(),error.getCode(), error.getValue());
+            }
+            return true;
+        }
+        return false;
+    }
 
 }

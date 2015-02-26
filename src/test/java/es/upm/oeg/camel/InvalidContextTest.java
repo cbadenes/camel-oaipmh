@@ -4,7 +4,7 @@ import org.apache.camel.builder.RouteBuilder;
 import org.apache.camel.test.junit4.CamelTestSupport;
 import org.junit.Test;
 
-public class InvalidFromValueTest extends CamelTestSupport {
+public class InvalidContextTest extends CamelTestSupport {
 
     @Override
     public void setUp() throws Exception {

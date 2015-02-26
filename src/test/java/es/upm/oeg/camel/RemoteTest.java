@@ -12,9 +12,11 @@ public class RemoteTest extends CamelTestSupport {
     @Ignore
     public void testOAIPMH() throws Exception {
         MockEndpoint mock = getMockEndpoint("mock:result");
-        mock.expectedMinimumMessageCount(1);       
-        
+        mock.expectedMinimumMessageCount(727);
+        Thread.currentThread().sleep(60000);
         assertMockEndpointsSatisfied();
+
+
     }
 
     @Override
@@ -28,6 +30,7 @@ public class RemoteTest extends CamelTestSupport {
                         "from=2013-01-01T00:00:00Z&"+
                         "initialDelay=2000")
                         .unmarshal().jaxb("es.upm.oeg.camel.oaipmh.message")
+                        //.to("stream:out");
                         .to("mock:result");
             }
         };

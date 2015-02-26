@@ -17,7 +17,7 @@ public class OAIPMHEndpoint extends DefaultPollingEndpoint {
     private final String url;
 
     @UriParam
-    private String from = ISODateTimeFormat.dateTimeNoMillis().print(System.currentTimeMillis());
+    private String from = TimeUtils.current();
     @UriParam
     private String verb = "ListRecords";
     @UriParam

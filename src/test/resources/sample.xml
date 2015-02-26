@@ -1,0 +1,1524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="http://aprendeenlinea.udea.edu.co/revistas/lib/pkp/xml/oai2.xsl" ?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/   http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+    <responseDate>2015-02-25T16:54:34Z</responseDate>
+    <request verb="ListRecords" metadataPrefix="oai_dc" from="2013-01-01T00:00:00Z">http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/oai</request>
+    <ListRecords>
+        <record>
+            <header status="deleted">
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/17812</identifier>
+                <datestamp>2014-11-28T22:05:37Z</datestamp>
+                <setSpec>pruebasleo:OPIN</setSpec>
+            </header>
+        </record>
+        <record>
+            <header status="deleted">
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/17817</identifier>
+                <datestamp>2014-11-28T22:05:37Z</datestamp>
+                <setSpec>pruebasleo:RECOMEND</setSpec>
+            </header>
+        </record>
+        <record>
+            <header status="deleted">
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/21338</identifier>
+                <datestamp>2015-01-05T21:37:26Z</datestamp>
+                <setSpec>unip:Ed.</setSpec>
+            </header>
+        </record>
+        <record>
+            <header status="deleted">
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/21699</identifier>
+                <datestamp>2015-01-30T19:52:55Z</datestamp>
+                <setSpec>trashumante:Inv</setSpec>
+            </header>
+        </record>
+        <record>
+            <header status="deleted">
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/20351</identifier>
+                <datestamp>2014-08-27T16:05:10Z</datestamp>
+                <setSpec>trashumante:Pre</setSpec>
+            </header>
+        </record>
+        <record>
+            <header status="deleted">
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/21848</identifier>
+                <datestamp>2015-02-15T15:32:56Z</datestamp>
+                <setSpec>boletin:AMB</setSpec>
+            </header>
+        </record>
+        <record>
+            <header status="deleted">
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/17810</identifier>
+                <datestamp>2014-11-28T22:05:37Z</datestamp>
+                <setSpec>pruebasleo:ART</setSpec>
+            </header>
+        </record>
+        <record>
+            <header status="deleted">
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/21070</identifier>
+                <datestamp>2014-11-19T15:57:21Z</datestamp>
+                <setSpec>hm:RESIMP</setSpec>
+            </header>
+        </record>
+        <record>
+            <header status="deleted">
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/8390</identifier>
+                <datestamp>2014-10-04T14:01:46Z</datestamp>
+                <setSpec>pruebasleo:ARTORI</setSpec>
+            </header>
+        </record>
+        <record>
+            <header status="deleted">
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/8395</identifier>
+                <datestamp>2014-10-04T14:01:46Z</datestamp>
+                <setSpec>pruebasleo:ARTORI</setSpec>
+            </header>
+        </record>
+        <record>
+            <header status="deleted">
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/15517</identifier>
+                <datestamp>2014-10-04T14:01:46Z</datestamp>
+                <setSpec>pruebasleo:ARTORI</setSpec>
+            </header>
+        </record>
+        <record>
+            <header status="deleted">
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/8401</identifier>
+                <datestamp>2014-10-04T14:01:46Z</datestamp>
+                <setSpec>pruebasleo:ARTREF</setSpec>
+            </header>
+        </record>
+        <record>
+            <header status="deleted">
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/11776</identifier>
+                <datestamp>2014-10-04T14:01:46Z</datestamp>
+                <setSpec>pruebasleo:ART</setSpec>
+            </header>
+        </record>
+        <record>
+            <header status="deleted">
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/20840</identifier>
+                <datestamp>2014-10-15T20:45:52Z</datestamp>
+                <setSpec>pensarh:ART</setSpec>
+            </header>
+        </record>
+        <record>
+            <header status="deleted">
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/15614</identifier>
+                <datestamp>2014-10-23T21:41:28Z</datestamp>
+                <setSpec>boletin:etm</setSpec>
+            </header>
+        </record>
+        <record>
+            <header status="deleted">
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/17813</identifier>
+                <datestamp>2014-11-28T22:05:37Z</datestamp>
+                <setSpec>pruebasleo:OBIT</setSpec>
+            </header>
+        </record>
+        <record>
+            <header status="deleted">
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/21334</identifier>
+                <datestamp>2015-01-05T22:52:33Z</datestamp>
+                <setSpec>unip:InInv</setSpec>
+            </header>
+        </record>
+        <record>
+            <header status="deleted">
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/21737</identifier>
+                <datestamp>2015-02-02T13:39:58Z</datestamp>
+                <setSpec>affectiosocietatis:R</setSpec>
+            </header>
+        </record>
+        <record>
+            <header status="deleted">
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/20535</identifier>
+                <datestamp>2014-09-03T02:33:50Z</datestamp>
+                <setSpec>coyuntura:ART</setSpec>
+            </header>
+        </record>
+        <record>
+            <header status="deleted">
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/17809</identifier>
+                <datestamp>2014-11-28T22:05:37Z</datestamp>
+                <setSpec>pruebasleo:ART</setSpec>
+            </header>
+        </record>
+        <record>
+            <header status="deleted">
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/12790</identifier>
+                <datestamp>2014-11-12T15:11:51Z</datestamp>
+                <setSpec>boletin:RES.</setSpec>
+            </header>
+        </record>
+        <record>
+            <header status="deleted">
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/8391</identifier>
+                <datestamp>2014-10-04T14:01:46Z</datestamp>
+                <setSpec>pruebasleo:ARTORI</setSpec>
+            </header>
+        </record>
+        <record>
+            <header status="deleted">
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/8396</identifier>
+                <datestamp>2014-10-04T14:01:46Z</datestamp>
+                <setSpec>pruebasleo:ARTORI</setSpec>
+            </header>
+        </record>
+        <record>
+            <header status="deleted">
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/8397</identifier>
+                <datestamp>2014-10-04T14:01:46Z</datestamp>
+                <setSpec>pruebasleo:ARTREF</setSpec>
+            </header>
+        </record>
+        <record>
+            <header status="deleted">
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/8402</identifier>
+                <datestamp>2014-10-04T14:01:46Z</datestamp>
+                <setSpec>pruebasleo:ARTREF</setSpec>
+            </header>
+        </record>
+        <record>
+            <header status="deleted">
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/20742</identifier>
+                <datestamp>2014-10-14T16:07:46Z</datestamp>
+                <setSpec>almamater:ART</setSpec>
+            </header>
+        </record>
+        <record>
+            <header status="deleted">
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/20841</identifier>
+                <datestamp>2014-10-15T20:55:11Z</datestamp>
+                <setSpec>pensarh:ART</setSpec>
+            </header>
+        </record>
+        <record>
+            <header status="deleted">
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/20555</identifier>
+                <datestamp>2014-10-26T23:10:09Z</datestamp>
+                <setSpec>versiones:Art.</setSpec>
+            </header>
+        </record>
+        <record>
+            <header status="deleted">
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/17814</identifier>
+                <datestamp>2014-11-28T22:05:37Z</datestamp>
+                <setSpec>pruebasleo:TRANS</setSpec>
+            </header>
+        </record>
+        <record>
+            <header status="deleted">
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/21333</identifier>
+                <datestamp>2015-01-05T23:08:34Z</datestamp>
+                <setSpec>unip:Ed.</setSpec>
+            </header>
+        </record>
+        <record>
+            <header status="deleted">
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/21611</identifier>
+                <datestamp>2015-02-02T13:40:16Z</datestamp>
+                <setSpec>affectiosocietatis:AR</setSpec>
+            </header>
+        </record>
+        <record>
+            <header status="deleted">
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/20536</identifier>
+                <datestamp>2014-09-03T02:50:51Z</datestamp>
+                <setSpec>coyuntura:ART</setSpec>
+            </header>
+        </record>
+        <record>
+            <header status="deleted">
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/17808</identifier>
+                <datestamp>2014-11-28T22:05:37Z</datestamp>
+                <setSpec>pruebasleo:ART</setSpec>
+            </header>
+        </record>
+        <record>
+            <header status="deleted">
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/12788</identifier>
+                <datestamp>2014-11-12T15:11:51Z</datestamp>
+                <setSpec>boletin:RES.</setSpec>
+            </header>
+        </record>
+        <record>
+            <header status="deleted">
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/8392</identifier>
+                <datestamp>2014-10-04T14:01:46Z</datestamp>
+                <setSpec>pruebasleo:ARTORI</setSpec>
+            </header>
+        </record>
+        <record>
+            <header status="deleted">
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/9676</identifier>
+                <datestamp>2014-10-04T14:01:46Z</datestamp>
+                <setSpec>pruebasleo:ARTORI</setSpec>
+            </header>
+        </record>
+        <record>
+            <header status="deleted">
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/8398</identifier>
+                <datestamp>2014-10-04T14:01:46Z</datestamp>
+                <setSpec>pruebasleo:ARTREF</setSpec>
+            </header>
+        </record>
+        <record>
+            <header status="deleted">
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/8403</identifier>
+                <datestamp>2014-10-04T14:01:46Z</datestamp>
+                <setSpec>pruebasleo:ARTREF</setSpec>
+            </header>
+        </record>
+        <record>
+            <header status="deleted">
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/20853</identifier>
+                <datestamp>2014-10-16T03:49:09Z</datestamp>
+                <setSpec>pensarh:RESE%C3%91</setSpec>
+            </header>
+        </record>
+        <record>
+            <header status="deleted">
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/17811</identifier>
+                <datestamp>2014-11-28T22:05:37Z</datestamp>
+                <setSpec>pruebasleo:ART</setSpec>
+            </header>
+        </record>
+        <record>
+            <header status="deleted">
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/17815</identifier>
+                <datestamp>2014-11-28T22:05:37Z</datestamp>
+                <setSpec>pruebasleo:RESE%C3%91</setSpec>
+            </header>
+        </record>
+        <record>
+            <header status="deleted">
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/10</identifier>
+                <datestamp>2014-12-09T18:50:35Z</datestamp>
+                <setSpec>mutatismutandis:Art+div</setSpec>
+            </header>
+        </record>
+        <record>
+            <header status="deleted">
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/21163</identifier>
+                <datestamp>2015-01-14T13:46:21Z</datestamp>
+                <setSpec>hm:RESIMP</setSpec>
+            </header>
+        </record>
+        <record>
+            <header status="deleted">
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/21652</identifier>
+                <datestamp>2015-02-09T12:48:56Z</datestamp>
+                <setSpec>hm:RESIMP</setSpec>
+            </header>
+        </record>
+        <record>
+            <header status="deleted">
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/20534</identifier>
+                <datestamp>2014-09-03T03:09:07Z</datestamp>
+                <setSpec>coyuntura:ART</setSpec>
+            </header>
+        </record>
+        <record>
+            <header status="deleted">
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/17807</identifier>
+                <datestamp>2014-11-28T22:05:37Z</datestamp>
+                <setSpec>pruebasleo:PRES</setSpec>
+            </header>
+        </record>
+        <record>
+            <header status="deleted">
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/12789</identifier>
+                <datestamp>2014-11-12T15:11:51Z</datestamp>
+                <setSpec>boletin:RES.</setSpec>
+            </header>
+        </record>
+        <record>
+            <header status="deleted">
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/8393</identifier>
+                <datestamp>2014-10-04T14:01:46Z</datestamp>
+                <setSpec>pruebasleo:ARTORI</setSpec>
+            </header>
+        </record>
+        <record>
+            <header status="deleted">
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/11775</identifier>
+                <datestamp>2014-10-04T14:01:46Z</datestamp>
+                <setSpec>pruebasleo:ARTORI</setSpec>
+            </header>
+        </record>
+        <record>
+            <header status="deleted">
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/8399</identifier>
+                <datestamp>2014-10-04T14:01:46Z</datestamp>
+                <setSpec>pruebasleo:ARTREF</setSpec>
+            </header>
+        </record>
+        <record>
+            <header status="deleted">
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/8404</identifier>
+                <datestamp>2014-10-04T14:01:46Z</datestamp>
+                <setSpec>pruebasleo:ARTREF</setSpec>
+            </header>
+        </record>
+        <record>
+            <header status="deleted">
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/20832</identifier>
+                <datestamp>2014-10-15T20:28:50Z</datestamp>
+                <setSpec>pensarh:PRES</setSpec>
+            </header>
+        </record>
+        <record>
+            <header status="deleted">
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/16564</identifier>
+                <datestamp>2014-10-21T14:54:30Z</datestamp>
+                <setSpec>trashumante:Inv</setSpec>
+            </header>
+        </record>
+        <record>
+            <header status="deleted">
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/14273</identifier>
+                <datestamp>2014-11-28T22:05:37Z</datestamp>
+                <setSpec>pruebasleo:ART</setSpec>
+            </header>
+        </record>
+        <record>
+            <header status="deleted">
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/17816</identifier>
+                <datestamp>2014-11-28T22:05:37Z</datestamp>
+                <setSpec>pruebasleo:RESE%C3%91</setSpec>
+            </header>
+        </record>
+        <record>
+            <header status="deleted">
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/21336</identifier>
+                <datestamp>2015-01-05T20:16:28Z</datestamp>
+                <setSpec>unip:InInv</setSpec>
+            </header>
+        </record>
+        <record>
+            <header status="deleted">
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/18423</identifier>
+                <datestamp>2015-01-29T00:09:13Z</datestamp>
+                <setSpec>red:AR</setSpec>
+            </header>
+        </record>
+        <record>
+            <header status="deleted">
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/21084</identifier>
+                <datestamp>2014-11-27T15:25:36Z</datestamp>
+                <setSpec>hm:RESIMP</setSpec>
+            </header>
+        </record>
+        <record>
+            <header status="deleted">
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/20263</identifier>
+                <datestamp>2015-02-09T22:04:47Z</datestamp>
+                <setSpec>affectiosocietatis:AR</setSpec>
+            </header>
+        </record>
+        <record>
+            <header status="deleted">
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/19688</identifier>
+                <datestamp>2014-09-04T00:44:12Z</datestamp>
+                <setSpec>psicologia:AREF</setSpec>
+            </header>
+        </record>
+        <record>
+            <header status="deleted">
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/21162</identifier>
+                <datestamp>2014-11-27T15:25:36Z</datestamp>
+                <setSpec>hm:RESIMP</setSpec>
+            </header>
+        </record>
+        <record>
+            <header status="deleted">
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/8389</identifier>
+                <datestamp>2014-10-04T14:01:46Z</datestamp>
+                <setSpec>pruebasleo:ARTORI</setSpec>
+            </header>
+        </record>
+        <record>
+            <header status="deleted">
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/8394</identifier>
+                <datestamp>2014-10-04T14:01:46Z</datestamp>
+                <setSpec>pruebasleo:ARTORI</setSpec>
+            </header>
+        </record>
+        <record>
+            <header status="deleted">
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/8388</identifier>
+                <datestamp>2014-10-04T14:01:46Z</datestamp>
+                <setSpec>pruebasleo:ARTORI</setSpec>
+            </header>
+        </record>
+        <record>
+            <header status="deleted">
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/8400</identifier>
+                <datestamp>2014-10-04T14:01:46Z</datestamp>
+                <setSpec>pruebasleo:ARTREF</setSpec>
+            </header>
+        </record>
+        <record>
+            <header status="deleted">
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/11169</identifier>
+                <datestamp>2014-10-04T14:01:46Z</datestamp>
+                <setSpec>pruebasleo:ART</setSpec>
+            </header>
+        </record>
+        <record>
+            <header status="deleted">
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/20834</identifier>
+                <datestamp>2014-10-15T15:58:14Z</datestamp>
+                <setSpec>pensarh:ART</setSpec>
+            </header>
+        </record>
+        <record>
+            <header status="deleted">
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/16565</identifier>
+                <datestamp>2014-10-21T14:54:30Z</datestamp>
+                <setSpec>trashumante:Inv</setSpec>
+            </header>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/18153</identifier>
+                <datestamp>2014-12-05T15:33:41Z</datestamp>
+                <setSpec>ingenieria:ART</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title xml:lang="es-ES">Variations of seasonal and spatial Hg, Pb, Cr and organic matter contents in Ayapel Flood Plain Lake sediments, Córdoba, northwest Colombia</dc:title>
+                    <dc:creator>Rúa Cardona, Alex Fernando; Universidad de Antioquia</dc:creator>
+                    <dc:creator>Flórez Molina, María Teresa; Universidad de Antioquia</dc:creator>
+                    <dc:creator>Palacio Baena, Jaime; Universidad de Antioquia</dc:creator>
+                    <dc:subject xml:lang="es-ES" />
+                    <dc:subject xml:lang="es-ES">Mercury, lead, chromium, organic matter, sediment, gold mining, heavy metal action level, hydrological pulse, Flood Plain Lake</dc:subject>
+                    <dc:description xml:lang="es-ES">The Flood Plain Lakes of the Atlantic Colombian have been impacted by artisanal gold mining during last decades. However, the obtained results have been compared to action levels relevant to other latitudes and the investigations have not included other trace metals of sanitary interest. The present study contributed to understanding the spatial geochemical response controlled by hydrological pulse and organic matter (OM) composition within the Ayapel Flood Plain Lake influence area. We assessed the seasonal and spatial variations of mercury (Hg), lead (Pb), and chromium (Cr) content in recent Ayapel Flood Plain Lake sediments and then compared them with the determined local pollution level of Hg (0.032 μg g-1), Pb (2.39 μg g-1) and Cr (89.58 μg g-1) found in Betulia Formation. The ranges of metal content were 0.008-0.117 μg Hg g-1, 1.090-11.870 μg Pb g-1, and 5.350-93.430 μg Cr g-1. Hg showed the largest spatial variation (0.083 ± 0.064 μg g-1) and the highest values at the distributaries of the former gold mining fronts. About 91 % of samples displayed Pb enrichment (6.376 ± 4.048 μg g-1) and 66.6 % Hg enrichment when compared with the reference levels. In contrast, Cr content was relatively low (96.325 ± 29.868 μg g-1) and showed a decreasing trend from East towards West. The sediment was mainly inorganic (88.154 ± 3.822 %) with depleted OM levels (11.846 ± 3.822 %). The results suggested enhanced Hg motility owing to a high respiration rate of OM about the centre of the main water table. The sediment resuspension and migration was facilitated by thermal instability of the water column influenced by wind action.</dc:description>
+                    <dc:publisher xml:lang="es-ES">Universidad de Antioquia</dc:publisher>
+                    <dc:contributor xml:lang="es-ES" />
+                    <dc:date>2014-01-20</dc:date>
+                    <dc:type>info:eu-repo/semantics/article</dc:type>
+                    <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+                    <dc:type xml:lang="es-ES">Artículo revisado por pares</dc:type>
+                    <dc:format>application/pdf</dc:format>
+                    <dc:identifier>http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/view/18153</dc:identifier>
+                    <dc:source xml:lang="es-ES">Revista Facultad de Ingeniería; núm. 69 (2013): Revista Facultad de Ingeniería; 244-255</dc:source>
+                    <dc:source>0120-6230</dc:source>
+                    <dc:language>spa</dc:language>
+                    <dc:relation>http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/view/18153/15608</dc:relation>
+                    <dc:rights xml:lang="es-ES">Todos los textos incluidos en la Revista Facultad de Ingeniería están protegidos por derechos de autor. Conforme a la ley, está prohibida su reproducción por cualquier medio, mecánico o electrónico, sin permiso escrito del Comité Editorial. Los textos completos de los artículos son de acceso abierto, esto es: se pueden leer, descargar, copiar, distribuir, imprimir, buscar o vincular. Las opiniones expresadas en los artículos publicados son las de los autores y no coinciden necesariamente con las del Comité Editorial ni las de la administración de la Facultad.</dc:rights>
+                    <dc:rights xml:lang="en-US">All the texts included in the School of Engineering Journal are protected by copyrights. According to the law, their reproduction through any means, physical or electronic, without written consent by the Editorial Committee is forbidden.  Complete texts of the articles will be fully and publically available, which means that they can be read, downloaded, copied, distributed, printed, searched for, or linked to. The opinions expressed in the published articles specifically belong to the authors and are not necessarily the same of the Editorial Committee or of the School of Engineering Management.</dc:rights>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/13125</identifier>
+                <datestamp>2014-08-08T16:12:59Z</datestamp>
+                <setSpec>ingenieria:ART</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title xml:lang="es-ES">Sistema de separación de sonidos cardiacos y pulmonares para aplicaciones de telemedicina de almacenamiento y envío</dc:title>
+                    <dc:creator>Salazar, Antonio José; Universidad de los Andes</dc:creator>
+                    <dc:creator>Alvarado, Catalina; Universidad de los Andes</dc:creator>
+                    <dc:creator>Lozano, Fernando Enrique; Universidad de los Andes</dc:creator>
+                    <dc:subject xml:lang="es-ES" />
+                    <dc:subject xml:lang="es-ES">Auscultación, sonidos cardiacos, sonidos pulmonares, filtros de modulación, filtros wavelet</dc:subject>
+                    <dc:description xml:lang="es-ES">La auscultación es un procedimiento médico que proporciona una idea general del comportamiento del corazón y los pulmones, a partir de los sonidos producidos por estos dos órganos. Debido a que estos sonidos se sobreponen en sus componentes de tiempo y frecuencia, afecciones importantes en uno de los órganos podrían no ser detectadas, dando lugar a un falso negativo. Por lo tanto, el objetivo de este trabajo es implementar dos métodos diferentes de separación de sonidos cardíacos y pulmonares. Primero, se aplica filtros de modulación a la representación en tiempo-frecuencia de la señal original, tomada sobre el pecho del paciente. Segundo, se aplica un algoritmo iterativo con filtros wavelet de descomposición y reconstrucción. Los resultados muestran que ambos separan las señales correctamente. Tomando el sonido pulmonar como ruido, se determina que la relación señal a ruido (SNR) es 10.21dB para el primer método y 6.61dB para el segundo. Aplicaciones en telemedicina son interesantes al poder reducir el ancho de banda de la señal transmitida, enviando las dos señales por separado.</dc:description>
+                    <dc:publisher xml:lang="es-ES">Universidad de Antioquia</dc:publisher>
+                    <dc:contributor xml:lang="es-ES" />
+                    <dc:date>2012-10-04</dc:date>
+                    <dc:type>info:eu-repo/semantics/article</dc:type>
+                    <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+                    <dc:type xml:lang="es-ES">Artículo revisado por pares</dc:type>
+                    <dc:format>application/pdf</dc:format>
+                    <dc:identifier>http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/view/13125</dc:identifier>
+                    <dc:source xml:lang="es-ES">Revista Facultad de Ingeniería; núm. 64 (2012): Revista Facultad de Ingeniería; 175-181</dc:source>
+                    <dc:source>0120-6230</dc:source>
+                    <dc:language>spa</dc:language>
+                    <dc:relation>http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/view/13125/11783</dc:relation>
+                    <dc:rights xml:lang="es-ES">Todos los textos incluidos en la Revista Facultad de Ingeniería están protegidos por derechos de autor. Conforme a la ley, está prohibida su reproducción por cualquier medio, mecánico o electrónico, sin permiso escrito del Comité Editorial. Los textos completos de los artículos son de acceso abierto, esto es: se pueden leer, descargar, copiar, distribuir, imprimir, buscar o vincular. Las opiniones expresadas en los artículos publicados son las de los autores y no coinciden necesariamente con las del Comité Editorial ni las de la administración de la Facultad.</dc:rights>
+                    <dc:rights xml:lang="en-US">All the texts included in the School of Engineering Journal are protected by copyrights. According to the law, their reproduction through any means, physical or electronic, without written consent by the Editorial Committee is forbidden.  Complete texts of the articles will be fully and publically available, which means that they can be read, downloaded, copied, distributed, printed, searched for, or linked to. The opinions expressed in the published articles specifically belong to the authors and are not necessarily the same of the Editorial Committee or of the School of Engineering Management.</dc:rights>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/15972</identifier>
+                <datestamp>2014-08-06T13:56:02Z</datestamp>
+                <setSpec>ingenieria:ART</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title xml:lang="es-ES">Estructura magnética de la akaganeita sintética: Revisión de resultados Mössbauer</dc:title>
+                    <dc:creator>García, Karen Edilma; Universidad de Antioquia</dc:creator>
+                    <dc:creator>Barrero, Cesar Augusto; Universidad de Antioquia</dc:creator>
+                    <dc:creator>Morales, Alvaro Luis; Universidad de Antioquia</dc:creator>
+                    <dc:creator>Greneche, Jean Marc; Université du Maine</dc:creator>
+                    <dc:subject xml:lang="es-ES" />
+                    <dc:subject xml:lang="es-ES">Akaganeita, espectro Mössbauer, estructura magnética</dc:subject>
+                    <dc:description xml:lang="es-ES">El refinamiento del espectro Mössbauer, i.e. la asignación del número correcto de componentes espectrales y su origen físico, ha sido por mucho tiempo un tema controversial en el caso de la akaganeita. La mayoría de las interpretaciones están basadas en la estructura tetragonal reportada anteriormente, y muy pocas en la recientemente reportada estructura monoclínica. Por otro lado, la estructura magnética se ha propuesto como colineal antiferromagnética, esperomágnetica ó asperomágnetica. En esta reseña revisamos críticamente algunos de los trabajos que se han hecho hasta la fecha y se esbozan futuros estudios experimentales y teóricos necesarios para conocer mejor la estructura magnética de la akaganeita.</dc:description>
+                    <dc:publisher xml:lang="es-ES">Universidad de Antioquia</dc:publisher>
+                    <dc:contributor xml:lang="es-ES" />
+                    <dc:date>2013-07-18</dc:date>
+                    <dc:type>info:eu-repo/semantics/article</dc:type>
+                    <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+                    <dc:type xml:lang="es-ES">Artículo revisado por pares</dc:type>
+                    <dc:format>application/pdf</dc:format>
+                    <dc:identifier>http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/view/15972</dc:identifier>
+                    <dc:source xml:lang="es-ES">Revista Facultad de Ingeniería; núm. 49 (2009): Revista Facultad de Ingeniería; 185-191</dc:source>
+                    <dc:source>0120-6230</dc:source>
+                    <dc:language>spa</dc:language>
+                    <dc:relation>http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/view/15972/13846</dc:relation>
+                    <dc:rights xml:lang="es-ES">Todos los textos incluidos en la Revista Facultad de Ingeniería están protegidos por derechos de autor. Conforme a la ley, está prohibida su reproducción por cualquier medio, mecánico o electrónico, sin permiso escrito del Comité Editorial. Los textos completos de los artículos son de acceso abierto, esto es: se pueden leer, descargar, copiar, distribuir, imprimir, buscar o vincular. Las opiniones expresadas en los artículos publicados son las de los autores y no coinciden necesariamente con las del Comité Editorial ni las de la administración de la Facultad.</dc:rights>
+                    <dc:rights xml:lang="en-US">All the texts included in the School of Engineering Journal are protected by copyrights. According to the law, their reproduction through any means, physical or electronic, without written consent by the Editorial Committee is forbidden.  Complete texts of the articles will be fully and publically available, which means that they can be read, downloaded, copied, distributed, printed, searched for, or linked to. The opinions expressed in the published articles specifically belong to the authors and are not necessarily the same of the Editorial Committee or of the School of Engineering Management.</dc:rights>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/17312</identifier>
+                <datestamp>2014-11-21T16:32:02Z</datestamp>
+                <setSpec>ingenieria:ART</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title xml:lang="en-US">Hola como estas</dc:title>
+                    <dc:title xml:lang="es-ES">Single-pixel optical sensing architecture for compressive hyperspectral imaging</dc:title>
+                    <dc:creator>Chacon, Hoover Fabian Rueda; University of Delaware</dc:creator>
+                    <dc:creator>García, Cesar Augusto Vargas; University of Delaware</dc:creator>
+                    <dc:creator>Fuentes, Henry Arguello; Universidad Industrial de Santander</dc:creator>
+                    <dc:subject xml:lang="es-ES">Electrica, Computacion y Optica</dc:subject>
+                    <dc:subject xml:lang="es-ES">Single-pixel detector; hyperspectral imaging; compressive sensing; optical imaging; coded aperture-based systems</dc:subject>
+                    <dc:subject xml:lang="en-US">Single-pixel detector; hyperspectral imaging; compressive sensing; optical imaging; coded aperture-based systems</dc:subject>
+                    <dc:description xml:lang="en-US">Hola como estas</dc:description>
+                    <dc:description xml:lang="es-ES">Compressive hyperspectral imaging systems (CSI) capture the three-dimensional (3D) information of a scene by measuring two-dimensional (2D) coded projections in a Focal Plane Array (FPA). These projections are then exploited by means of an optimization algorithm to obtain an estimation of the underlying 3D information. The quality of the reconstructions is highly dependent on the resolution of the FPA detector, whose cost grows exponentially with the resolution. High-resolution low-cost reconstructions are thus desirable. This paper proposes a Single Pixel Compressive Hyperspectral Imaging Sensor (SPHIS) to capture and reconstruct hyperspectral images. This optical architecture relies on the use of multiple snapshots of two time-varying coded apertures and a dispersive element. Several simulations with different databases present the outstanding reconstruction results achieved using far fewer measurements than the number of voxels of the 3D scene to be estimated.</dc:description>
+                    <dc:publisher xml:lang="es-ES">Universidad de Antioquia</dc:publisher>
+                    <dc:contributor xml:lang="en-US">COLCIENCIAS, Fulbright</dc:contributor>
+                    <dc:contributor xml:lang="es-ES" />
+                    <dc:date>2014-11-13</dc:date>
+                    <dc:type>info:eu-repo/semantics/article</dc:type>
+                    <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+                    <dc:type xml:lang="es-ES">Artículo revisado por pares</dc:type>
+                    <dc:format>application/pdf</dc:format>
+                    <dc:identifier>http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/view/17312</dc:identifier>
+                    <dc:source xml:lang="es-ES">Revista Facultad de Ingeniería; núm. 73 (2014): Revista Facultad de Ingeniería; 134-143</dc:source>
+                    <dc:source>0120-6230</dc:source>
+                    <dc:language>spa</dc:language>
+                    <dc:relation>http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/view/17312/17643</dc:relation>
+                    <dc:relation>http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/downloadSuppFile/17312/5631</dc:relation>
+                    <dc:relation>http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/downloadSuppFile/17312/5633</dc:relation>
+                    <dc:relation>http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/downloadSuppFile/17312/7086</dc:relation>
+                    <dc:relation>http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/downloadSuppFile/17312/7087</dc:relation>
+                    <dc:rights xml:lang="es-ES">Todos los textos incluidos en la Revista Facultad de Ingeniería están protegidos por derechos de autor. Conforme a la ley, está prohibida su reproducción por cualquier medio, mecánico o electrónico, sin permiso escrito del Comité Editorial. Los textos completos de los artículos son de acceso abierto, esto es: se pueden leer, descargar, copiar, distribuir, imprimir, buscar o vincular. Las opiniones expresadas en los artículos publicados son las de los autores y no coinciden necesariamente con las del Comité Editorial ni las de la administración de la Facultad.</dc:rights>
+                    <dc:rights xml:lang="en-US">All the texts included in the School of Engineering Journal are protected by copyrights. According to the law, their reproduction through any means, physical or electronic, without written consent by the Editorial Committee is forbidden.  Complete texts of the articles will be fully and publically available, which means that they can be read, downloaded, copied, distributed, printed, searched for, or linked to. The opinions expressed in the published articles specifically belong to the authors and are not necessarily the same of the Editorial Committee or of the School of Engineering Management.</dc:rights>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/18624</identifier>
+                <datestamp>2014-03-04T20:08:15Z</datestamp>
+                <setSpec>ingenieria:ART</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title xml:lang="es-ES">El fraccionamiento por cristalización del biodiesel de aceite de palma como alternativa para mejorar sus propiedades de flujo a baja temperatura</dc:title>
+                    <dc:creator>Benavides, Alirio Yovany; Universidad Nacional de Colombia</dc:creator>
+                    <dc:creator>Benjumea, Pedro Nel; Universidad Nacional de Colombia</dc:creator>
+                    <dc:creator>Agudelo, John Ramiro; Universidad de Antioquia</dc:creator>
+                    <dc:subject xml:lang="es-ES" />
+                    <dc:subject xml:lang="es-ES">biodiesel de aceite de palma, fraccionamiento, cristalización, punto de nube, punto de fluidez</dc:subject>
+                    <dc:description xml:lang="es-ES">El biodiesel de aceite de palma (BAP) posee excelentes propiedades como combustible para motores. Sin embargo, asociado con su composición química altamente saturada, este biocombustible presenta un deficiente desempeño a temperaturas cercanas a la temperatura ambiente de varias ciudades colombianas. A 16 ºC, el BAP empieza a formar pequeños cristales, los cuales, a medida que la temperatura sigue disminuyendo, aceleran su crecimiento y se aglomeran, de tal modo, que a una temperatura entre 12 y 9 ºC pueden llegar a impedir completamente el flujo del combustible. En este trabajo se evaluó la técnica del fraccionamiento del BAP mediante cristalización inducida por enfriamiento para mejorar sus propiedades de flujo a baja temperatura (PFBT). Las variables tenidas en cuenta para dicho proceso fueron la temperatura de enfriamiento o de winterization (Tw) y el tiempo de estabilización (tp). De acuerdo con los punto de nube (PN) y fluidez (PF) del BAP, el rango de temperaturas de enfriamiento que se pudo ensayar fue muy limitado (12 ºC-16 ºC). El proceso permitió obtener una fracción líquida a la Tw con mejores PFBT que el BAP original. Para las condiciones extremas probadas (tp=24 horas y Tw=14 ºC) se obtuvo una fracción líquida con un PN 6 ºC menor que el del BAP sin fraccionar. Dicho cambio en el PN correspondió a un aumento en el contenido de metilésteres insaturados de 4,7% y una reducción en el contenido de metilésteres del ácido palmítico de 5,29%. Los cambios inducidos en la composición química de las fracciones líquidas no alcanzaron a tener efectos significativos en sus propiedades básicas como combustibles.</dc:description>
+                    <dc:publisher xml:lang="es-ES">Universidad de Antioquia</dc:publisher>
+                    <dc:contributor xml:lang="es-ES" />
+                    <dc:date>2014-02-25</dc:date>
+                    <dc:type>info:eu-repo/semantics/article</dc:type>
+                    <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+                    <dc:type xml:lang="es-ES">Artículo revisado por pares</dc:type>
+                    <dc:format>application/pdf</dc:format>
+                    <dc:identifier>http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/view/18624</dc:identifier>
+                    <dc:source xml:lang="es-ES">Revista Facultad de Ingeniería; núm. 43 (2008): Revista Facultad de Ingeniería; 7-17</dc:source>
+                    <dc:source>0120-6230</dc:source>
+                    <dc:language>spa</dc:language>
+                    <dc:relation>http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/view/18624/15974</dc:relation>
+                    <dc:rights xml:lang="es-ES">Todos los textos incluidos en la Revista Facultad de Ingeniería están protegidos por derechos de autor. Conforme a la ley, está prohibida su reproducción por cualquier medio, mecánico o electrónico, sin permiso escrito del Comité Editorial. Los textos completos de los artículos son de acceso abierto, esto es: se pueden leer, descargar, copiar, distribuir, imprimir, buscar o vincular. Las opiniones expresadas en los artículos publicados son las de los autores y no coinciden necesariamente con las del Comité Editorial ni las de la administración de la Facultad.</dc:rights>
+                    <dc:rights xml:lang="en-US">All the texts included in the School of Engineering Journal are protected by copyrights. According to the law, their reproduction through any means, physical or electronic, without written consent by the Editorial Committee is forbidden.  Complete texts of the articles will be fully and publically available, which means that they can be read, downloaded, copied, distributed, printed, searched for, or linked to. The opinions expressed in the published articles specifically belong to the authors and are not necessarily the same of the Editorial Committee or of the School of Engineering Management.</dc:rights>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/14228</identifier>
+                <datestamp>2014-12-03T14:24:07Z</datestamp>
+                <setSpec>ingenieria:ART</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title xml:lang="es-ES">Evaluación de la severidad de un plano en la superficie de rodadura de las ruedas de un tren</dc:title>
+                    <dc:creator>Flórez S, Elkin G.; Universidad de Pamplona</dc:creator>
+                    <dc:creator>Cardona F, Salvador; Universidad Politécnica de Catalunya</dc:creator>
+                    <dc:creator>Jordi N, Lluïsa; Universidad Politécnica de Catalunya</dc:creator>
+                    <dc:subject xml:lang="es-ES" />
+                    <dc:subject xml:lang="es-ES">Planos en la rueda del tren, análisis de vibraciones, transporte ferroviario.</dc:subject>
+                    <dc:description xml:lang="es-ES">La presencia de planos, aunque incipientes, en la superficie de rodaduras es causa de un rápido deterioro del contacto rueda-carril con las consecuencias que ello conlleva tanto para el entorno como para el propio material rodante. Es por ello que la detección de estos planos, antes que se hagan aparentes por sus consecuencias, es de gran interés y motivo de estudio. En este trabajo se presentan algunos de los resultados obtenidos en una extensa campaña de medidas llevadas a cabo en una línea del Ferrocarril Metropolitano de Barcelona. La vibración del carril al paso de las ruedas se detecta mediante un acelerómetro situado en el pie del carril y el instante exacto de paso de las ruedas por la sección donde se encuentra el acelerómetro se determina mediante la deformación cortante del alma del carril. Se proponen, y aplican a los registros experimentales, distintos indicadores para cuantificar la severidad de los planos. Uno de los aspectos analizados a partir de los datos experimentales es la variación del pico de energía de la vibración detectada en función de la distancia entre la sección donde incide un plano con la vía y  el acelerómetro. Este pico debe normalizarse para establecer correctamente la severidad del plano.</dc:description>
+                    <dc:publisher xml:lang="es-ES">Universidad de Antioquia</dc:publisher>
+                    <dc:contributor xml:lang="es-ES" />
+                    <dc:date>2013-01-27</dc:date>
+                    <dc:type>info:eu-repo/semantics/article</dc:type>
+                    <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+                    <dc:type xml:lang="es-ES">Artículo revisado por pares</dc:type>
+                    <dc:format>application/pdf</dc:format>
+                    <dc:identifier>http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/view/14228</dc:identifier>
+                    <dc:source xml:lang="es-ES">Revista Facultad de Ingeniería; núm. 65 (2012): Revista Facultad de Ingeniería; 180-190</dc:source>
+                    <dc:source>0120-6230</dc:source>
+                    <dc:language>spa</dc:language>
+                    <dc:relation>http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/view/14228/12560</dc:relation>
+                    <dc:rights xml:lang="es-ES">Todos los textos incluidos en la Revista Facultad de Ingeniería están protegidos por derechos de autor. Conforme a la ley, está prohibida su reproducción por cualquier medio, mecánico o electrónico, sin permiso escrito del Comité Editorial. Los textos completos de los artículos son de acceso abierto, esto es: se pueden leer, descargar, copiar, distribuir, imprimir, buscar o vincular. Las opiniones expresadas en los artículos publicados son las de los autores y no coinciden necesariamente con las del Comité Editorial ni las de la administración de la Facultad.</dc:rights>
+                    <dc:rights xml:lang="en-US">All the texts included in the School of Engineering Journal are protected by copyrights. According to the law, their reproduction through any means, physical or electronic, without written consent by the Editorial Committee is forbidden.  Complete texts of the articles will be fully and publically available, which means that they can be read, downloaded, copied, distributed, printed, searched for, or linked to. The opinions expressed in the published articles specifically belong to the authors and are not necessarily the same of the Editorial Committee or of the School of Engineering Management.</dc:rights>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/14665</identifier>
+                <datestamp>2014-08-06T14:29:40Z</datestamp>
+                <setSpec>ingenieria:ART</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title xml:lang="es-ES">Selección automática de parámetros en LLE</dc:title>
+                    <dc:creator>Valencia Aguirre, Juliana; Universidad Nacional de Colombia sede Manizales</dc:creator>
+                    <dc:creator>Álvarez Meza, Andrés Marino; Universidad Nacional de Colombia sede Manizales</dc:creator>
+                    <dc:creator>Daza Santacoloma, Genaro; Universidad Nacional de Colombia sede Manizales</dc:creator>
+                    <dc:creator>Acosta Medina, Carlos Daniel; Universidad Nacional de Colombia sede Manizales</dc:creator>
+                    <dc:creator>Castellanos Domínguez, Germán; Universidad Nacional de Colombia sede Manizales</dc:creator>
+                    <dc:subject xml:lang="es-ES" />
+                    <dc:subject xml:lang="es-ES">Inmersiones localmente lineales, número de vecinos más cercanos, regularización automática, reducción de dimensión</dc:subject>
+                    <dc:description xml:lang="es-ES">Inmersión localmente lineal (LLE) es una técnica de reducción de dimensión no lineal que permite conservar la geometría local del espacio de alta dimensión, al realizar una inmersión de los datos a un espacio de baja dimensión. El algoritmo posee 3 parámetros libres que deben ser definidos por el usuario al momento de realizar la inmersión: el número de vecinos más cercanos k, la dimensión de salida de los datos m y el parámetro de regularización a. Este último sólo es necesario determinarlo cuando el número de vecinos elegido es mayor que la dimensión original de los datos, o cuando los puntos (datos) no están ubicados en posición general, pero juega un papel muy importante en el resultado de la inmersión. En este trabajo se propone un par de criterios que permiten encontrar el valor óptimo para los parámetros k y a, de manera que se obtenga una inmersión que represente de manera fiel los datos del espacio de entrada. Con el fin de comprobar la eficacia de los criterios propuestos, se realizaron pruebas sobre dos bases de datos artificiales y dos bases de datos reales. Además, se realiza una comparación de los resultados contra métodos encontrados en el estado del arte.</dc:description>
+                    <dc:publisher xml:lang="es-ES">Universidad de Antioquia</dc:publisher>
+                    <dc:contributor xml:lang="es-ES" />
+                    <dc:date>2013-02-28</dc:date>
+                    <dc:type>info:eu-repo/semantics/article</dc:type>
+                    <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+                    <dc:type xml:lang="es-ES">Artículo revisado por pares</dc:type>
+                    <dc:format>application/pdf</dc:format>
+                    <dc:identifier>http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/view/14665</dc:identifier>
+                    <dc:source xml:lang="es-ES">Revista Facultad de Ingeniería; núm. 56 (2010): Revista Facultad de Ingeniería; 170-181</dc:source>
+                    <dc:source>0120-6230</dc:source>
+                    <dc:language>spa</dc:language>
+                    <dc:relation>http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/view/14665/12820</dc:relation>
+                    <dc:rights xml:lang="es-ES">Todos los textos incluidos en la Revista Facultad de Ingeniería están protegidos por derechos de autor. Conforme a la ley, está prohibida su reproducción por cualquier medio, mecánico o electrónico, sin permiso escrito del Comité Editorial. Los textos completos de los artículos son de acceso abierto, esto es: se pueden leer, descargar, copiar, distribuir, imprimir, buscar o vincular. Las opiniones expresadas en los artículos publicados son las de los autores y no coinciden necesariamente con las del Comité Editorial ni las de la administración de la Facultad.</dc:rights>
+                    <dc:rights xml:lang="en-US">All the texts included in the School of Engineering Journal are protected by copyrights. According to the law, their reproduction through any means, physical or electronic, without written consent by the Editorial Committee is forbidden.  Complete texts of the articles will be fully and publically available, which means that they can be read, downloaded, copied, distributed, printed, searched for, or linked to. The opinions expressed in the published articles specifically belong to the authors and are not necessarily the same of the Editorial Committee or of the School of Engineering Management.</dc:rights>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/17221</identifier>
+                <datestamp>2014-08-08T16:54:14Z</datestamp>
+                <setSpec>ingenieria:ART</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title xml:lang="es-ES">Passive sampling in the study of dynamic and environmental impact of pesticides in water</dc:title>
+                    <dc:creator>F. Narvaez V, Jhon; Universidad de Antioquia</dc:creator>
+                    <dc:creator>A. Lopez, Carlos; c</dc:creator>
+                    <dc:creator>J. Molina P, Francisco; Universidad de Antioquia</dc:creator>
+                    <dc:subject xml:lang="es-ES" />
+                    <dc:subject xml:lang="es-ES">Persistence, xenobiotics, metabolites, passive sampling, SPMD, POCIS and green analytical chemistry</dc:subject>
+                    <dc:description xml:lang="es-ES">Pesticides are the most applied substances in agricultural activities which can contaminate water bodies by direct or indirect discharge, but large volumes and natural transformation processes can decrease the concentration of these substances and their degradates in watershed. Currently, conventional extraction methods such as: solid phase extraction (SPE) and solid phase micro extraction (SPME) among others do not permit low detection limits. However low levels of pesticides and degradates could produce chronic toxicity in different species. Nowadays, passive sampling is widespread used for monitoring pesticides and for ensuring the water quality and bioaccumulation studies due to this methodology allows the detection of pollutant from parts per quadrillion (ppq). The most popular membranes used in passive sampling are the semipermeable membrane devices (SPMD), which permit the concentration of lipophilic substances and the polar organic chemical integrative sampler (POCIS), which permits concentration of the hydrophilic ones. This review is about the application of passive samplers in pesticides analysis, the importance of these devices in the bioaccumulation studies and the evaluation of the ecotoxicological risks. Finally, passive sampling allows reducing costs, time and the amount of organic solvent used which classifies it within the environmental trends of "green analytical chemistry".</dc:description>
+                    <dc:publisher xml:lang="es-ES">Universidad de Antioquia</dc:publisher>
+                    <dc:contributor xml:lang="es-ES" />
+                    <dc:date>2013-10-24</dc:date>
+                    <dc:type>info:eu-repo/semantics/article</dc:type>
+                    <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+                    <dc:type xml:lang="es-ES">Artículo revisado por pares</dc:type>
+                    <dc:format>application/pdf</dc:format>
+                    <dc:identifier>http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/view/17221</dc:identifier>
+                    <dc:source xml:lang="es-ES">Revista Facultad de Ingeniería; núm. 68 (2013): Revista Facultad de Ingeniería; 147-159</dc:source>
+                    <dc:source>0120-6230</dc:source>
+                    <dc:language>spa</dc:language>
+                    <dc:relation>http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/view/17221/14887</dc:relation>
+                    <dc:rights xml:lang="es-ES">Todos los textos incluidos en la Revista Facultad de Ingeniería están protegidos por derechos de autor. Conforme a la ley, está prohibida su reproducción por cualquier medio, mecánico o electrónico, sin permiso escrito del Comité Editorial. Los textos completos de los artículos son de acceso abierto, esto es: se pueden leer, descargar, copiar, distribuir, imprimir, buscar o vincular. Las opiniones expresadas en los artículos publicados son las de los autores y no coinciden necesariamente con las del Comité Editorial ni las de la administración de la Facultad.</dc:rights>
+                    <dc:rights xml:lang="en-US">All the texts included in the School of Engineering Journal are protected by copyrights. According to the law, their reproduction through any means, physical or electronic, without written consent by the Editorial Committee is forbidden.  Complete texts of the articles will be fully and publically available, which means that they can be read, downloaded, copied, distributed, printed, searched for, or linked to. The opinions expressed in the published articles specifically belong to the authors and are not necessarily the same of the Editorial Committee or of the School of Engineering Management.</dc:rights>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/20152</identifier>
+                <datestamp>2014-08-06T13:33:34Z</datestamp>
+                <setSpec>ingenieria:ART</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title xml:lang="es-ES">Análisis de estructuras periódicas con descripción de Fourier y redes neuronales</dc:title>
+                    <dc:creator>Díaz, Adalberto Gabriel; Universidad Eafit</dc:creator>
+                    <dc:subject xml:lang="es-ES" />
+                    <dc:subject xml:lang="es-ES">reconocimiento de patrones, procesamiento de imágenes, transformada de Fourier, inspección de fallos.</dc:subject>
+                    <dc:description xml:lang="es-ES">En este trabajo se desarrolla un proyecto de inspección de entramados textiles, donde la estructura de una textura superficial se manifiesta con un comportamiento sobre la base de un modelo llamado patrón, el cual tiene asociado un conjunto de características que lo definen como tal. El proceso de identificación y clasificación de fallas en la textura, consiste en establecer una región de conformidad en el espacio coordenado definido por el número de características del patrón.El proceso de reducción de este espacio m-dimensional ayuda a la identificación en un espacio n-dimensional, tal que m &gt; n, donde el sistema de clasificación depende realmente de las características del nuevo espacio, las cuales contienen verdaderamente la información necesaria para la clasificación. Las características espaciales permiten identificar el patrón como tal, en el sitio que se explora. Las características frecuenciales corresponden a una reducción del espacio de clasificación, haciéndolo más genérico en el área de cubrimiento de la imagen.El sistema de clasificación se modela con algoritmos de redes neuronales y la complejidad de las superficies de decisión está solucionada a partir de la arquitectura y la algorítmica de entrenamiento de la red neuronal.</dc:description>
+                    <dc:publisher xml:lang="es-ES">Universidad de Antioquia</dc:publisher>
+                    <dc:contributor xml:lang="es-ES" />
+                    <dc:date>2014-07-31</dc:date>
+                    <dc:type>info:eu-repo/semantics/article</dc:type>
+                    <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+                    <dc:type xml:lang="es-ES">Artículo revisado por pares</dc:type>
+                    <dc:format>application/pdf</dc:format>
+                    <dc:identifier>http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/view/20152</dc:identifier>
+                    <dc:source xml:lang="es-ES">Revista Facultad de Ingeniería; núm. 40 (2007): Revista Facultad de Ingenieria; 106-117</dc:source>
+                    <dc:source>0120-6230</dc:source>
+                    <dc:language>spa</dc:language>
+                    <dc:relation>http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/view/20152/17000</dc:relation>
+                    <dc:rights xml:lang="es-ES">Todos los textos incluidos en la Revista Facultad de Ingeniería están protegidos por derechos de autor. Conforme a la ley, está prohibida su reproducción por cualquier medio, mecánico o electrónico, sin permiso escrito del Comité Editorial. Los textos completos de los artículos son de acceso abierto, esto es: se pueden leer, descargar, copiar, distribuir, imprimir, buscar o vincular. Las opiniones expresadas en los artículos publicados son las de los autores y no coinciden necesariamente con las del Comité Editorial ni las de la administración de la Facultad.</dc:rights>
+                    <dc:rights xml:lang="en-US">All the texts included in the School of Engineering Journal are protected by copyrights. According to the law, their reproduction through any means, physical or electronic, without written consent by the Editorial Committee is forbidden.  Complete texts of the articles will be fully and publically available, which means that they can be read, downloaded, copied, distributed, printed, searched for, or linked to. The opinions expressed in the published articles specifically belong to the authors and are not necessarily the same of the Editorial Committee or of the School of Engineering Management.</dc:rights>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/14919</identifier>
+                <datestamp>2014-08-06T14:01:59Z</datestamp>
+                <setSpec>ingenieria:ART</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title xml:lang="es-ES">Análisis multiobjetivo a un sistema energético</dc:title>
+                    <dc:creator>Bastidas, Marlon; Universidad Nacional de Colombia Sede Medellín</dc:creator>
+                    <dc:creator>Jaramillo, Patricia; Universidad Nacional de Colombia Sede Medellín</dc:creator>
+                    <dc:creator>Chejne, Farid; Universidad Nacional de Colombia Sede Medellín</dc:creator>
+                    <dc:creator>Galván, Blas; Universidad de las Palmas de Gran Canaria</dc:creator>
+                    <dc:subject xml:lang="es-ES" />
+                    <dc:subject xml:lang="es-ES">Multiobjetivo, optimización, termoeconomía</dc:subject>
+                    <dc:description xml:lang="es-ES">Se presenta una metodología reciente para optimización de un sistema energético complejo introduciendo factores externos, basada en el desarrollo de fronteras Pareto -óptimas a partir de algoritmos evolutivos multiobjetivos (AEMO) empleados en la resolución de problemas energéticos reales de optimización no lineal. Se incluyen objetivos: termo-económico, tecnológico y ambiental, a los cuales se les asigna un peso para evaluar la función de aptitud, formada por una suma de promedios de cada objetivo. El sistemaenergético complejo está formado por un ciclo combinado (subsistema I) y un gasificador (subsistema II). El desempeño de los pesos en cada objetivo se modela por reglas heurísticas, mientras que las modificaciones de las variables de decisión se basan enaplicaciones aleatorias. La metodología expuesta, permite evaluar funciones objetivo formadas por costos del combustible, costos variables de operación y costos de mantenimiento, los cuales están incluidos en la ecuación de capital de inversión. Las metas en la optimización del sistema global son minimizar los costos del producto, minimizar los residuos de la combustión y maximizar la eficiencia exergética.</dc:description>
+                    <dc:publisher xml:lang="es-ES">Universidad de Antioquia</dc:publisher>
+                    <dc:contributor xml:lang="es-ES" />
+                    <dc:date>2013-03-20</dc:date>
+                    <dc:type>info:eu-repo/semantics/article</dc:type>
+                    <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+                    <dc:type xml:lang="es-ES">Artículo revisado por pares</dc:type>
+                    <dc:format>application/pdf</dc:format>
+                    <dc:identifier>http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/view/14919</dc:identifier>
+                    <dc:source xml:lang="es-ES">Revista Facultad de Ingeniería; núm. 51 (2010): Revista Facultad de Ingeniería; 51-58</dc:source>
+                    <dc:source>0120-6230</dc:source>
+                    <dc:language>spa</dc:language>
+                    <dc:relation>http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/view/14919/13044</dc:relation>
+                    <dc:rights xml:lang="es-ES">Todos los textos incluidos en la Revista Facultad de Ingeniería están protegidos por derechos de autor. Conforme a la ley, está prohibida su reproducción por cualquier medio, mecánico o electrónico, sin permiso escrito del Comité Editorial. Los textos completos de los artículos son de acceso abierto, esto es: se pueden leer, descargar, copiar, distribuir, imprimir, buscar o vincular. Las opiniones expresadas en los artículos publicados son las de los autores y no coinciden necesariamente con las del Comité Editorial ni las de la administración de la Facultad.</dc:rights>
+                    <dc:rights xml:lang="en-US">All the texts included in the School of Engineering Journal are protected by copyrights. According to the law, their reproduction through any means, physical or electronic, without written consent by the Editorial Committee is forbidden.  Complete texts of the articles will be fully and publically available, which means that they can be read, downloaded, copied, distributed, printed, searched for, or linked to. The opinions expressed in the published articles specifically belong to the authors and are not necessarily the same of the Editorial Committee or of the School of Engineering Management.</dc:rights>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/20189</identifier>
+                <datestamp>2014-08-05T15:52:46Z</datestamp>
+                <setSpec>ingenieria:ART</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title xml:lang="es-ES">Structural health monitoring methodology for simply supported bridges: numerical implementation</dc:title>
+                    <dc:creator>Riveros Jerez, Carlos Alberto; Universidad de Antioquia</dc:creator>
+                    <dc:subject xml:lang="es-ES" />
+                    <dc:subject xml:lang="es-ES">Eigenvector sensitivity method; natural excitation technique; eigensystem realization algorithm; the bayesian probabilistic approach for damage detection</dc:subject>
+                    <dc:description xml:lang="es-ES">Structural health monitoring of civil structures is currently receiving great amount of attention by researchers due to the economic impact and life-safety implications of early damage detection. Current visual inspection techniques, which aim to detect local damage, can be used in conjunction with a structural health monitoring system to inspect more localized regions. This paper presents a structural health monitoring methodology for simply supported bridges, which is divided into four steps; the first step deals with the optimum location of sensors using the concept of Fisher information matrix, the second and third steps use ambient excitation sources for system identification and the final step employs the Bayesian probabilistic approach to detect structural damage sites. A finite element model of a scaled bridge is used to carry out this numerical implementation. The results show that the proposed methodology can be implemented in the railway system of Medellín. The repetitive pattern of simply supported bridges can greatly facilitate the implementation of damage monitoring systems for the whole railway system.</dc:description>
+                    <dc:publisher xml:lang="es-ES">Universidad de Antioquia</dc:publisher>
+                    <dc:contributor xml:lang="es-ES" />
+                    <dc:date>2014-08-01</dc:date>
+                    <dc:type>info:eu-repo/semantics/article</dc:type>
+                    <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+                    <dc:type xml:lang="es-ES">Artículo revisado por pares</dc:type>
+                    <dc:format>application/pdf</dc:format>
+                    <dc:identifier>http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/view/20189</dc:identifier>
+                    <dc:source xml:lang="es-ES">Revista Facultad de Ingeniería; núm. 39 (2007): Revista Facultad de Ingeniería; 42-55</dc:source>
+                    <dc:source>0120-6230</dc:source>
+                    <dc:language>spa</dc:language>
+                    <dc:relation>http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/view/20189/17014</dc:relation>
+                    <dc:rights xml:lang="es-ES">Todos los textos incluidos en la Revista Facultad de Ingeniería están protegidos por derechos de autor. Conforme a la ley, está prohibida su reproducción por cualquier medio, mecánico o electrónico, sin permiso escrito del Comité Editorial. Los textos completos de los artículos son de acceso abierto, esto es: se pueden leer, descargar, copiar, distribuir, imprimir, buscar o vincular. Las opiniones expresadas en los artículos publicados son las de los autores y no coinciden necesariamente con las del Comité Editorial ni las de la administración de la Facultad.</dc:rights>
+                    <dc:rights xml:lang="en-US">All the texts included in the School of Engineering Journal are protected by copyrights. According to the law, their reproduction through any means, physical or electronic, without written consent by the Editorial Committee is forbidden.  Complete texts of the articles will be fully and publically available, which means that they can be read, downloaded, copied, distributed, printed, searched for, or linked to. The opinions expressed in the published articles specifically belong to the authors and are not necessarily the same of the Editorial Committee or of the School of Engineering Management.</dc:rights>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/14924</identifier>
+                <datestamp>2014-08-06T14:01:59Z</datestamp>
+                <setSpec>ingenieria:ART</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title xml:lang="es-ES">Análisis energético y exergético del proceso de obtención de etanol a partir de la fruta del banano</dc:title>
+                    <dc:creator>Velásquez Arredondo, H. I.; Universidad Nacional de Colombia - Sede Medellín</dc:creator>
+                    <dc:creator>Ruiz Colorado, A. A.; Universidad Nacional de Colombia - Sede Medellín</dc:creator>
+                    <dc:creator>Oliveira, S.; Universidade de São Paulo</dc:creator>
+                    <dc:subject xml:lang="es-ES" />
+                    <dc:subject xml:lang="es-ES">Hidrólisis, banano, etanol, síntesis de procesos, valor energético neto análisis exergético</dc:subject>
+                    <dc:description xml:lang="es-ES">Una alternativa para la producción de etanol, consiste en el aprovechamiento de residuos vegetales, como los excedentes de la producción de banano, que en Colombia alcanzan 2.400.000 t/año entre: banano de rechazo y material lignocelulósico. En este trabajo se analiza el comportamiento energético y exergético al escalar el proceso desarrollado a nivel de laboratorio a una planta de producción que utilice el banano para la producción de etanol, involucrando: cultivo y transporte del material vegetal, hidrólisis del banano,fermentación de los azúcares, destilación del etanol y planta de utilidades. Adicionalmente, se obtiene indicadores en base energética y exergética para evaluar el proceso. Los resultados de la evaluación muestran que el proceso de obtención de etanol a partir de la fruta del banano presenta un balance energético positivo pero se podrían realizar algunas modificaciones buscando aumentar la eficiencia exergética del proceso.</dc:description>
+                    <dc:publisher xml:lang="es-ES">Universidad de Antioquia</dc:publisher>
+                    <dc:contributor xml:lang="es-ES" />
+                    <dc:date>2013-03-20</dc:date>
+                    <dc:type>info:eu-repo/semantics/article</dc:type>
+                    <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+                    <dc:type xml:lang="es-ES">Artículo revisado por pares</dc:type>
+                    <dc:format>application/pdf</dc:format>
+                    <dc:identifier>http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/view/14924</dc:identifier>
+                    <dc:source xml:lang="es-ES">Revista Facultad de Ingeniería; núm. 51 (2010): Revista Facultad de Ingeniería; 94-103</dc:source>
+                    <dc:source>0120-6230</dc:source>
+                    <dc:language>spa</dc:language>
+                    <dc:relation>http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/view/14924/13049</dc:relation>
+                    <dc:rights xml:lang="es-ES">Todos los textos incluidos en la Revista Facultad de Ingeniería están protegidos por derechos de autor. Conforme a la ley, está prohibida su reproducción por cualquier medio, mecánico o electrónico, sin permiso escrito del Comité Editorial. Los textos completos de los artículos son de acceso abierto, esto es: se pueden leer, descargar, copiar, distribuir, imprimir, buscar o vincular. Las opiniones expresadas en los artículos publicados son las de los autores y no coinciden necesariamente con las del Comité Editorial ni las de la administración de la Facultad.</dc:rights>
+                    <dc:rights xml:lang="en-US">All the texts included in the School of Engineering Journal are protected by copyrights. According to the law, their reproduction through any means, physical or electronic, without written consent by the Editorial Committee is forbidden.  Complete texts of the articles will be fully and publically available, which means that they can be read, downloaded, copied, distributed, printed, searched for, or linked to. The opinions expressed in the published articles specifically belong to the authors and are not necessarily the same of the Editorial Committee or of the School of Engineering Management.</dc:rights>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/18158</identifier>
+                <datestamp>2014-12-05T15:33:41Z</datestamp>
+                <setSpec>ingenieria:ART</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title xml:lang="es-ES">Evaluation of chemical pretreatments for enzymatic hydrolysis of lignocellulosic residues cassava (Manihot esculenta Crantz)</dc:title>
+                    <dc:creator>Niño López, Lilibeth; Universidad de Antioquia</dc:creator>
+                    <dc:creator>Acosta Cárdenas, Alejandro; Universidad de Antioquia</dc:creator>
+                    <dc:creator>Gelves Zambrano, Ricardo; Universidad de Antioquia</dc:creator>
+                    <dc:subject xml:lang="es-ES" />
+                    <dc:subject xml:lang="es-ES">Pretreatment, hydrolysis, ethanol, lignocellulosic waste, cellulose, hemicellulose, lignin</dc:subject>
+                    <dc:description xml:lang="es-ES">The effect of different chemical pretreatment with sulfuric acid (H2SO4), sodium hydroxide (NaOH) and hydrogen peroxide (H2O2) were evaluated by quantifying total reducing sugars produced during enzymatic hydrolysis step of lignocellulosic residues cassava (Manihot esculenta Crantz) and lignin removal percentage after pretreatment. The amount of waste used (1 to 5%) (w/v) in different particle sizes (1.18 and 0.6 mm) were pretreated separately (leaves and stems) with H2SO4, NaOH and H2O2 at varying concentrations (1 and 5%) (w/v). Plant residues were hydrolyzed with enzyme Accellerase 1500 with 50 ° C, pH 5 and 140 rpm. NaOH pretreatment enables higher total reducing sugars released during enzymatic hydrolysis (3.7 g/L) followed by leave pretreatments using H2SO4 (2.11 g/L) and H2O2 (1.54 g/L). Sugar concentrations were lower in stem pretreatments.</dc:description>
+                    <dc:publisher xml:lang="es-ES">Universidad de Antioquia</dc:publisher>
+                    <dc:contributor xml:lang="es-ES" />
+                    <dc:date>2014-01-20</dc:date>
+                    <dc:type>info:eu-repo/semantics/article</dc:type>
+                    <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+                    <dc:type xml:lang="es-ES">Artículo revisado por pares</dc:type>
+                    <dc:format>application/pdf</dc:format>
+                    <dc:identifier>http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/view/18158</dc:identifier>
+                    <dc:source xml:lang="es-ES">Revista Facultad de Ingeniería; núm. 69 (2013): Revista Facultad de Ingeniería; 317-326</dc:source>
+                    <dc:source>0120-6230</dc:source>
+                    <dc:language>spa</dc:language>
+                    <dc:relation>http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/view/18158/15613</dc:relation>
+                    <dc:rights xml:lang="es-ES">Todos los textos incluidos en la Revista Facultad de Ingeniería están protegidos por derechos de autor. Conforme a la ley, está prohibida su reproducción por cualquier medio, mecánico o electrónico, sin permiso escrito del Comité Editorial. Los textos completos de los artículos son de acceso abierto, esto es: se pueden leer, descargar, copiar, distribuir, imprimir, buscar o vincular. Las opiniones expresadas en los artículos publicados son las de los autores y no coinciden necesariamente con las del Comité Editorial ni las de la administración de la Facultad.</dc:rights>
+                    <dc:rights xml:lang="en-US">All the texts included in the School of Engineering Journal are protected by copyrights. According to the law, their reproduction through any means, physical or electronic, without written consent by the Editorial Committee is forbidden.  Complete texts of the articles will be fully and publically available, which means that they can be read, downloaded, copied, distributed, printed, searched for, or linked to. The opinions expressed in the published articles specifically belong to the authors and are not necessarily the same of the Editorial Committee or of the School of Engineering Management.</dc:rights>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/13534</identifier>
+                <datestamp>2014-08-08T16:03:49Z</datestamp>
+                <setSpec>ingenieria:ART</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title xml:lang="es-ES">Improvement of micro-hardness and electrochemical properties of Al-4%Cu-0.5%Mg alloy by Ag addition</dc:title>
+                    <dc:creator>Correa, Reinaldo; Universidad de Antioquia</dc:creator>
+                    <dc:creator>Sánchez, Héctor; Universidad de Antioquia</dc:creator>
+                    <dc:creator>Calderón, Jorge A.; Universidad de Antioquia</dc:creator>
+                    <dc:subject xml:lang="es-ES" />
+                    <dc:subject xml:lang="es-ES">Duraluminum alloy, heat treatment, phase transformations, microstructure, corrosion resistance, polarization curves</dc:subject>
+                    <dc:description xml:lang="es-ES">The base system of alloys Al-4% Cu-0. 5% Mg, known as the designation of duralumin 201, are very appreciated by the aerospace, partly automotive and industrial in general, for its great strength, high temperature and corrosion resistant. These kinds of alloys have excellent response to precipitation hardening. This study evaluates the effect of silver content in the microstructure, mechanical properties and corrosion resistance of the alloy. It was found that the addition of silver in the alloys led to a delay time of homogenization and accelerates the aging time, causing the precipitation of Guinier Preston zones and the consequent increase in hardness and improvement of the mechanical properties of alloys. Moreover, the addition of Ag to alloys Al-4% Cu-0.5% Mg gives a better resistance to corrosion, giving noble features and reducing the corrosion current in chloride aqueous media. The global control of the dissolution of the alloys Al-4% Cu-0.5% Mg-Ag will be given by the diffusion of oxygen from the bulk of the solution to the metal surface. The corrosion potential of alloys Al-4% Cu-0.5% Mg-Ag coincide with the pitting potential of the material (-0.62V), this makes the material not generate a passive layer and its dissolution is controlled purely by activation of the surface and the reaction rate of the cathodic reduction of oxygen.</dc:description>
+                    <dc:publisher xml:lang="es-ES">Universidad de Antioquia</dc:publisher>
+                    <dc:contributor xml:lang="es-ES" />
+                    <dc:date>2012-11-15</dc:date>
+                    <dc:type>info:eu-repo/semantics/article</dc:type>
+                    <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+                    <dc:type xml:lang="es-ES">Artículo revisado por pares</dc:type>
+                    <dc:format>application/pdf</dc:format>
+                    <dc:identifier>http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/view/13534</dc:identifier>
+                    <dc:source xml:lang="es-ES">Revista Facultad de Ingeniería; núm. 61 (2011): Revista Facultad de Ingeniería; 19-28</dc:source>
+                    <dc:source>0120-6230</dc:source>
+                    <dc:language>spa</dc:language>
+                    <dc:relation>http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/view/13534/12076</dc:relation>
+                    <dc:rights xml:lang="es-ES">Todos los textos incluidos en la Revista Facultad de Ingeniería están protegidos por derechos de autor. Conforme a la ley, está prohibida su reproducción por cualquier medio, mecánico o electrónico, sin permiso escrito del Comité Editorial. Los textos completos de los artículos son de acceso abierto, esto es: se pueden leer, descargar, copiar, distribuir, imprimir, buscar o vincular. Las opiniones expresadas en los artículos publicados son las de los autores y no coinciden necesariamente con las del Comité Editorial ni las de la administración de la Facultad.</dc:rights>
+                    <dc:rights xml:lang="en-US">All the texts included in the School of Engineering Journal are protected by copyrights. According to the law, their reproduction through any means, physical or electronic, without written consent by the Editorial Committee is forbidden.  Complete texts of the articles will be fully and publically available, which means that they can be read, downloaded, copied, distributed, printed, searched for, or linked to. The opinions expressed in the published articles specifically belong to the authors and are not necessarily the same of the Editorial Committee or of the School of Engineering Management.</dc:rights>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/16006</identifier>
+                <datestamp>2014-12-05T15:39:21Z</datestamp>
+                <setSpec>ingenieria:ART</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title xml:lang="es-ES">Degradación de colorantes industriales con hongos ligninolíticos</dc:title>
+                    <dc:creator>Quintero, Juan; Universidad de Antioquia</dc:creator>
+                    <dc:creator>Cardona, Mariana; Universidad de Antioquia</dc:creator>
+                    <dc:creator>Osorio, Juliana; Universidad de Antioquia</dc:creator>
+                    <dc:subject xml:lang="es-ES" />
+                    <dc:subject xml:lang="es-ES">Orange II, tintes industriales, hongos ligninolíticos, decoloración.</dc:subject>
+                    <dc:description xml:lang="es-ES">Los hongos de la pudrición blanca de la madera han mostrado un gran potencial para degradar compuestos químicos recalcitrantes y generalmente tóxicos como hidrocarburos poli-aromáticos, explosivos, plaguicidas, tintes, entre otros. Esta propiedad se debe principalmente a que poseen un complejo de enzimas oxidativas extracelular que emplean naturalmente para la degradación de la lignina de la madera. En este trabajo se evaluaron siete cepas de hongos ligninolíticos en función de su capacidad para degradar el colorante Orange II y también los colorantes industriales Rojo Cibacrón®, Rojo Erionyl®, Azul Terasil® y Turquesa Erionyl® en medio semisólido y líquido. Phanerochaete chrysosporium y Phanerochaete sordida mostraron alta capacidad de decoloración, alcanzando 98% en medio líquido para Orange II y entre 82 y 86% para los colorantes industriales después de ocho días de tratamiento. En medio semisólido todos los colorantes se eliminaron completamente. Durante el tratamiento en medio líquido se observó que los hongos crecieron con un comportamiento diáuxico presentando adsorción parcial del Orange II durante la primera etapa de crecimiento exponencial, en la fase estacionaria el colorante se liberó y fue finalmente degradado.</dc:description>
+                    <dc:publisher xml:lang="es-ES">Universidad de Antioquia</dc:publisher>
+                    <dc:contributor xml:lang="es-ES" />
+                    <dc:date>2013-07-23</dc:date>
+                    <dc:type>info:eu-repo/semantics/article</dc:type>
+                    <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+                    <dc:type xml:lang="es-ES">Artículo revisado por pares</dc:type>
+                    <dc:format>application/pdf</dc:format>
+                    <dc:identifier>http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/view/16006</dc:identifier>
+                    <dc:source xml:lang="es-ES">Revista Facultad de Ingeniería; núm. 48 (2009): Revista Facultad de Ingeniería; 27-37</dc:source>
+                    <dc:source>0120-6230</dc:source>
+                    <dc:language>spa</dc:language>
+                    <dc:relation>http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/view/16006/13863</dc:relation>
+                    <dc:rights xml:lang="es-ES">Todos los textos incluidos en la Revista Facultad de Ingeniería están protegidos por derechos de autor. Conforme a la ley, está prohibida su reproducción por cualquier medio, mecánico o electrónico, sin permiso escrito del Comité Editorial. Los textos completos de los artículos son de acceso abierto, esto es: se pueden leer, descargar, copiar, distribuir, imprimir, buscar o vincular. Las opiniones expresadas en los artículos publicados son las de los autores y no coinciden necesariamente con las del Comité Editorial ni las de la administración de la Facultad.</dc:rights>
+                    <dc:rights xml:lang="en-US">All the texts included in the School of Engineering Journal are protected by copyrights. According to the law, their reproduction through any means, physical or electronic, without written consent by the Editorial Committee is forbidden.  Complete texts of the articles will be fully and publically available, which means that they can be read, downloaded, copied, distributed, printed, searched for, or linked to. The opinions expressed in the published articles specifically belong to the authors and are not necessarily the same of the Editorial Committee or of the School of Engineering Management.</dc:rights>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/21187</identifier>
+                <datestamp>2014-12-03T14:07:13Z</datestamp>
+                <setSpec>ingenieria:PRES</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title xml:lang="es-ES">Preliminares</dc:title>
+                    <dc:creator>Botero, Maryory Astrid Gómez; Universidad de Antioquia</dc:creator>
+                    <dc:subject xml:lang="es-ES" />
+                    <dc:subject xml:lang="es-ES" />
+                    <dc:description xml:lang="es-ES" />
+                    <dc:publisher xml:lang="es-ES">Universidad de Antioquia</dc:publisher>
+                    <dc:contributor xml:lang="es-ES" />
+                    <dc:date>2014-12-03</dc:date>
+                    <dc:type>info:eu-repo/semantics/article</dc:type>
+                    <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+                    <dc:type xml:lang="es-ES" />
+                    <dc:identifier>http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/view/21187</dc:identifier>
+                    <dc:source xml:lang="es-ES">Revista Facultad de Ingeniería; núm. 67 (2013): Revista Facultad de Ingeniería; 1-5</dc:source>
+                    <dc:source>0120-6230</dc:source>
+                    <dc:rights xml:lang="es-ES">Todos los textos incluidos en la Revista Facultad de Ingeniería están protegidos por derechos de autor. Conforme a la ley, está prohibida su reproducción por cualquier medio, mecánico o electrónico, sin permiso escrito del Comité Editorial. Los textos completos de los artículos son de acceso abierto, esto es: se pueden leer, descargar, copiar, distribuir, imprimir, buscar o vincular. Las opiniones expresadas en los artículos publicados son las de los autores y no coinciden necesariamente con las del Comité Editorial ni las de la administración de la Facultad.</dc:rights>
+                    <dc:rights xml:lang="en-US">All the texts included in the School of Engineering Journal are protected by copyrights. According to the law, their reproduction through any means, physical or electronic, without written consent by the Editorial Committee is forbidden.  Complete texts of the articles will be fully and publically available, which means that they can be read, downloaded, copied, distributed, printed, searched for, or linked to. The opinions expressed in the published articles specifically belong to the authors and are not necessarily the same of the Editorial Committee or of the School of Engineering Management.</dc:rights>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/18629</identifier>
+                <datestamp>2014-03-04T20:08:15Z</datestamp>
+                <setSpec>ingenieria:ART</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title xml:lang="es-ES">Síntesis y caracterización de hidroxiapatita microporosa, comparación con un producto comercial</dc:title>
+                    <dc:creator>Ossa, Claudia Patricia; Universidad de Antioquia</dc:creator>
+                    <dc:creator>Pareja, Nathalia Marín; Universidad de Antioquia</dc:creator>
+                    <dc:creator>Escobar, Diana Marcela; Universidad de Antioquia</dc:creator>
+                    <dc:creator>Echavarría, Alejandro; Universidad de Antioquia</dc:creator>
+                    <dc:subject xml:lang="es-ES" />
+                    <dc:subject xml:lang="es-ES">hidroxiapatita, porosidad, relleno óseo, fosfatos de calcio, osteointegración</dc:subject>
+                    <dc:description xml:lang="es-ES">La hidroxiapatita, componente natural del hueso, se puede ser obtener sintéticamentepor la reacción entre el nitrato de calcio y el fosfato de amonio, conservando sus propiedades de osteoconductividad y su capacidad de unirse químicamente al tejido óseo. En este trabajo se obtuvo hidroxiapatita microporosa mediante la técnica de coprecipitación, adicionando un agente porogénico y con temperaturas de calcinado de 750 y 850 °C. La hidroxiapatita calcinada (denominada HA UdeA) se comparó con un producto comercial. Las muestras se caracterizaron usando las técnicas de difracción de rayos X (XRD), espectroscopia infrarroja con transformada de Fourier (FTIR), microscopía electrónica de barrido (SEM) y técnicas termoanalíticas (DTA y TGA). Los resultados indican que los productos HA UdeA y el producto comercial presentan características similares en estructura cristalina, composición química y adsorción de especies, y aunque las muestras evaluadas presentan diferencias morfológicas en geometría y tamaño de partícula, ambos cerámicos se pueden utilizar como biomaterial en implantes, por ejemplo para rellenos óseos.</dc:description>
+                    <dc:publisher xml:lang="es-ES">Universidad de Antioquia</dc:publisher>
+                    <dc:contributor xml:lang="es-ES" />
+                    <dc:date>2014-02-25</dc:date>
+                    <dc:type>info:eu-repo/semantics/article</dc:type>
+                    <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+                    <dc:type xml:lang="es-ES">Artículo revisado por pares</dc:type>
+                    <dc:format>application/pdf</dc:format>
+                    <dc:identifier>http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/view/18629</dc:identifier>
+                    <dc:source xml:lang="es-ES">Revista Facultad de Ingeniería; núm. 43 (2008): Revista Facultad de Ingeniería; 67-76</dc:source>
+                    <dc:source>0120-6230</dc:source>
+                    <dc:language>spa</dc:language>
+                    <dc:relation>http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/view/18629/15979</dc:relation>
+                    <dc:rights xml:lang="es-ES">Todos los textos incluidos en la Revista Facultad de Ingeniería están protegidos por derechos de autor. Conforme a la ley, está prohibida su reproducción por cualquier medio, mecánico o electrónico, sin permiso escrito del Comité Editorial. Los textos completos de los artículos son de acceso abierto, esto es: se pueden leer, descargar, copiar, distribuir, imprimir, buscar o vincular. Las opiniones expresadas en los artículos publicados son las de los autores y no coinciden necesariamente con las del Comité Editorial ni las de la administración de la Facultad.</dc:rights>
+                    <dc:rights xml:lang="en-US">All the texts included in the School of Engineering Journal are protected by copyrights. According to the law, their reproduction through any means, physical or electronic, without written consent by the Editorial Committee is forbidden.  Complete texts of the articles will be fully and publically available, which means that they can be read, downloaded, copied, distributed, printed, searched for, or linked to. The opinions expressed in the published articles specifically belong to the authors and are not necessarily the same of the Editorial Committee or of the School of Engineering Management.</dc:rights>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/14597</identifier>
+                <datestamp>2014-08-06T14:36:37Z</datestamp>
+                <setSpec>ingenieria:ART</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title xml:lang="es-ES">Análisis de la producción de biobutanol en la fermentación acetobutilica con clostridium saccharoperbutylacetonicum N1-4 ATCC13564</dc:title>
+                    <dc:creator>Jaramillo Obando, Juan Jacobo; Universidad Nacional de Colombia Sede Manizales</dc:creator>
+                    <dc:creator>Cardona, Carlos Ariel; Universidad Nacional de Colombia Sede Manizales</dc:creator>
+                    <dc:subject xml:lang="es-ES" />
+                    <dc:subject xml:lang="es-ES">Biobutanol, fermentación ABE, Embden- Meyerhof-Parnas (EMP), Clostridium saccharoperbutylacetonicum N1-4 ATCC13564 Abstract</dc:subject>
+                    <dc:description xml:lang="es-ES">Se estudiaron las condiciones y características de la producción de biobutanol en la fermentación ABE. Se usó un modelo cinético de crecimiento celular estructurado siguiendo la vía metabólica propuesta por Embden-Meyerhof-Parnas (EMP) para el Clostridium saccharoperbutylacetonicum N1-4 ATCC13564 en un esquema de reacción de flujo continuo y tanque agitado. Se realizó un análisis de sensibilidad y una optimización con base en las variables de decisión de productividad de butanol, rendimiento de glucosa a butanol y conversión global de glucosa para diferentes concentraciones de alimentación y tasa de dilución resultando en valores de productividad de 27,46 mM h-1, rendimiento de 0,65 mmol de butanol por mmol de glucosa y conversión de 95,38% finales a una concentración de alimentación óptima de 295 mM y tasa de dilución final de 0,15 h-1.</dc:description>
+                    <dc:publisher xml:lang="es-ES">Universidad de Antioquia</dc:publisher>
+                    <dc:contributor xml:lang="es-ES" />
+                    <dc:date>2013-02-27</dc:date>
+                    <dc:type>info:eu-repo/semantics/article</dc:type>
+                    <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+                    <dc:type xml:lang="es-ES">Artículo revisado por pares</dc:type>
+                    <dc:format>application/pdf</dc:format>
+                    <dc:identifier>http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/view/14597</dc:identifier>
+                    <dc:source xml:lang="es-ES">Revista Facultad de Ingeniería; núm. 58 (2011): Revista Facultad de Ingeniería; 36-45</dc:source>
+                    <dc:source>0120-6230</dc:source>
+                    <dc:language>spa</dc:language>
+                    <dc:relation>http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/view/14597/12761</dc:relation>
+                    <dc:rights xml:lang="es-ES">Todos los textos incluidos en la Revista Facultad de Ingeniería están protegidos por derechos de autor. Conforme a la ley, está prohibida su reproducción por cualquier medio, mecánico o electrónico, sin permiso escrito del Comité Editorial. Los textos completos de los artículos son de acceso abierto, esto es: se pueden leer, descargar, copiar, distribuir, imprimir, buscar o vincular. Las opiniones expresadas en los artículos publicados son las de los autores y no coinciden necesariamente con las del Comité Editorial ni las de la administración de la Facultad.</dc:rights>
+                    <dc:rights xml:lang="en-US">All the texts included in the School of Engineering Journal are protected by copyrights. According to the law, their reproduction through any means, physical or electronic, without written consent by the Editorial Committee is forbidden.  Complete texts of the articles will be fully and publically available, which means that they can be read, downloaded, copied, distributed, printed, searched for, or linked to. The opinions expressed in the published articles specifically belong to the authors and are not necessarily the same of the Editorial Committee or of the School of Engineering Management.</dc:rights>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/14670</identifier>
+                <datestamp>2014-08-06T14:29:40Z</datestamp>
+                <setSpec>ingenieria:ART</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title xml:lang="es-ES">Optimización de parámetros en los métodos Scan generalizados</dc:title>
+                    <dc:creator>Rodríguez Corvea, Laureano; Facultad de Ciencias Médicas de Sancti Spíritus</dc:creator>
+                    <dc:creator>Casas Cardoso, Gladys; Universidad Central “Marta Abreu” de Las Villas</dc:creator>
+                    <dc:creator>Silveira Díaz, Pavel; Universidad Central “Marta Abreu” de Las Villas</dc:creator>
+                    <dc:creator>Díaz Rosell, Félix Arley; Universidad Central “Marta Abreu” de Las Villas</dc:creator>
+                    <dc:creator>Grau Abalo, Ricardo; Universidad Central “Marta Abreu” de Las Villas</dc:creator>
+                    <dc:subject xml:lang="es-ES" />
+                    <dc:subject xml:lang="es-ES">Método Scan, lógica difusa, diseño experimental no paramétrico</dc:subject>
+                    <dc:description xml:lang="es-ES">El presente trabajo muestra una aplicación del diseño experimental al análisis de los parámetros de las técnicas Scan Lineal de detección de conglomerados, en su variante clásica y borrosa. Se utiliza un diseño experimental no paramétrico. El objetivo fundamental es estudiar la posible influencia de los valores de los parámetros: ancho de la ventana móvil y paso del Scan en ambas variantes del método, para obtener valores óptimos o cercanos a los óptimos.</dc:description>
+                    <dc:publisher xml:lang="es-ES">Universidad de Antioquia</dc:publisher>
+                    <dc:contributor xml:lang="es-ES" />
+                    <dc:date>2013-02-28</dc:date>
+                    <dc:type>info:eu-repo/semantics/article</dc:type>
+                    <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+                    <dc:type xml:lang="es-ES">Artículo revisado por pares</dc:type>
+                    <dc:format>application/pdf</dc:format>
+                    <dc:identifier>http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/view/14670</dc:identifier>
+                    <dc:source xml:lang="es-ES">Revista Facultad de Ingeniería; núm. 56 (2010): Revista Facultad de Ingeniería; 222-233</dc:source>
+                    <dc:source>0120-6230</dc:source>
+                    <dc:language>spa</dc:language>
+                    <dc:relation>http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/view/14670/12825</dc:relation>
+                    <dc:rights xml:lang="es-ES">Todos los textos incluidos en la Revista Facultad de Ingeniería están protegidos por derechos de autor. Conforme a la ley, está prohibida su reproducción por cualquier medio, mecánico o electrónico, sin permiso escrito del Comité Editorial. Los textos completos de los artículos son de acceso abierto, esto es: se pueden leer, descargar, copiar, distribuir, imprimir, buscar o vincular. Las opiniones expresadas en los artículos publicados son las de los autores y no coinciden necesariamente con las del Comité Editorial ni las de la administración de la Facultad.</dc:rights>
+                    <dc:rights xml:lang="en-US">All the texts included in the School of Engineering Journal are protected by copyrights. According to the law, their reproduction through any means, physical or electronic, without written consent by the Editorial Committee is forbidden.  Complete texts of the articles will be fully and publically available, which means that they can be read, downloaded, copied, distributed, printed, searched for, or linked to. The opinions expressed in the published articles specifically belong to the authors and are not necessarily the same of the Editorial Committee or of the School of Engineering Management.</dc:rights>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/17763</identifier>
+                <datestamp>2014-08-06T13:52:15Z</datestamp>
+                <setSpec>ingenieria:ART</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title xml:lang="es-ES">Técnica para identificar faltas transitorias y permanentes en líneas de transmisión, utilizando la transformada Wavelet</dc:title>
+                    <dc:creator>Martínez, Miguel; Universidad Simón Bolívar</dc:creator>
+                    <dc:subject xml:lang="es-ES" />
+                    <dc:subject xml:lang="es-ES">Fallas permanentes y transitorias, Reconexión Monofásica, ATP/EMTP, Transformada Wavelet.</dc:subject>
+                    <dc:description xml:lang="es-ES">En el presente documento, se presenta un algoritmo que permite distinguir de forma clara y precisa, las faltas transitorias de las permanentes. Adicionalmente se determina el instante de extinción del arco secundario, para así evitar o controlar de forma efectiva y segura la operación de reconexión monofásica en sistemas de transporte de energía. El método de identificación se basa en la determinación de las características de alta frecuencia que posee la señal de tensión de la fase en falta antes del despeje y de la corriente en una fase sana y las relaciona de forma independiente mediante una auto-correlación cruzada. Para el análisis de la señal y extracción de los componentes de alta frecuencia, se ha utilizado la transformada Wavelet. El algoritmo propuesto se probó en un sistema base de 380 kV, funcionando de forma correcta en todos los escenarios planteados y logrando una identificación precisa en los primeros 25 ms de la falta.</dc:description>
+                    <dc:publisher xml:lang="es-ES">Universidad de Antioquia</dc:publisher>
+                    <dc:contributor xml:lang="es-ES" />
+                    <dc:date>2013-12-03</dc:date>
+                    <dc:type>info:eu-repo/semantics/article</dc:type>
+                    <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+                    <dc:type xml:lang="es-ES">Artículo revisado por pares</dc:type>
+                    <dc:format>application/pdf</dc:format>
+                    <dc:identifier>http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/view/17763</dc:identifier>
+                    <dc:source xml:lang="es-ES">Revista Facultad de Ingeniería; núm. 47 (2009): Revista Facultad de Ingeniería; 176-186</dc:source>
+                    <dc:source>0120-6230</dc:source>
+                    <dc:language>spa</dc:language>
+                    <dc:relation>http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/view/17763/15257</dc:relation>
+                    <dc:rights xml:lang="es-ES">Todos los textos incluidos en la Revista Facultad de Ingeniería están protegidos por derechos de autor. Conforme a la ley, está prohibida su reproducción por cualquier medio, mecánico o electrónico, sin permiso escrito del Comité Editorial. Los textos completos de los artículos son de acceso abierto, esto es: se pueden leer, descargar, copiar, distribuir, imprimir, buscar o vincular. Las opiniones expresadas en los artículos publicados son las de los autores y no coinciden necesariamente con las del Comité Editorial ni las de la administración de la Facultad.</dc:rights>
+                    <dc:rights xml:lang="en-US">All the texts included in the School of Engineering Journal are protected by copyrights. According to the law, their reproduction through any means, physical or electronic, without written consent by the Editorial Committee is forbidden.  Complete texts of the articles will be fully and publically available, which means that they can be read, downloaded, copied, distributed, printed, searched for, or linked to. The opinions expressed in the published articles specifically belong to the authors and are not necessarily the same of the Editorial Committee or of the School of Engineering Management.</dc:rights>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/14929</identifier>
+                <datestamp>2014-08-06T13:59:02Z</datestamp>
+                <setSpec>ingenieria:ART</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title xml:lang="es-ES">Interacción punta-muestra dieléctrica en microscopía de fuerza electrostática</dc:title>
+                    <dc:creator>Gómez, Ariel; Universidad de los Andes</dc:creator>
+                    <dc:creator>Ávila, Alba Graciela; Universidad de los Andes</dc:creator>
+                    <dc:creator>Massy, Gergory Ibrahim; Universidad de los Andes</dc:creator>
+                    <dc:subject xml:lang="es-ES" />
+                    <dc:subject xml:lang="es-ES">Electrostática, inducción de carga, gradiente de fuerza, AFM, EFM, electret, cantilever, viga voladiza, dieléctricos cargados</dc:subject>
+                    <dc:description xml:lang="es-ES">La microscopía de fuerza electrostática es una técnica de medición de propiedades eléctricas locales de materiales. Las mediciones de gradiente de fuerza eléctrica sobre muestras dieléctricas son sensibles no sólo a la distribución de carga inicial en la misma sino también a la carga inducida por la punta de prueba conductora. Interpretar las contribuciones de cada efecto de forma independiente constituye un reto vigente de la técnica. Se introduce un modelo teórico que permite estudiar los efectos de carga e inducción paramuestras y puntas de prueba con geometrías reales. El mismo modelo a partir de mediciones de gradiente de fuerza estima la carga inicial de la muestra. Las estimaciones de gradiente de fuerza reproducen mediciones experimentales realizadas en muestras dieléctricas cargadas.</dc:description>
+                    <dc:publisher xml:lang="es-ES">Universidad de Antioquia</dc:publisher>
+                    <dc:contributor xml:lang="es-ES" />
+                    <dc:date>2013-03-20</dc:date>
+                    <dc:type>info:eu-repo/semantics/article</dc:type>
+                    <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+                    <dc:type xml:lang="es-ES">Artículo revisado por pares</dc:type>
+                    <dc:format>application/pdf</dc:format>
+                    <dc:identifier>http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/view/14929</dc:identifier>
+                    <dc:source xml:lang="es-ES">Revista Facultad de Ingeniería; núm. 50 (2009): Revista Facultad de Ingeniería; 31-40</dc:source>
+                    <dc:source>0120-6230</dc:source>
+                    <dc:language>spa</dc:language>
+                    <dc:relation>http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/view/14929/13054</dc:relation>
+                    <dc:rights xml:lang="es-ES">Todos los textos incluidos en la Revista Facultad de Ingeniería están protegidos por derechos de autor. Conforme a la ley, está prohibida su reproducción por cualquier medio, mecánico o electrónico, sin permiso escrito del Comité Editorial. Los textos completos de los artículos son de acceso abierto, esto es: se pueden leer, descargar, copiar, distribuir, imprimir, buscar o vincular. Las opiniones expresadas en los artículos publicados son las de los autores y no coinciden necesariamente con las del Comité Editorial ni las de la administración de la Facultad.</dc:rights>
+                    <dc:rights xml:lang="en-US">All the texts included in the School of Engineering Journal are protected by copyrights. According to the law, their reproduction through any means, physical or electronic, without written consent by the Editorial Committee is forbidden.  Complete texts of the articles will be fully and publically available, which means that they can be read, downloaded, copied, distributed, printed, searched for, or linked to. The opinions expressed in the published articles specifically belong to the authors and are not necessarily the same of the Editorial Committee or of the School of Engineering Management.</dc:rights>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/14002</identifier>
+                <datestamp>2014-12-03T14:39:32Z</datestamp>
+                <setSpec>ingenieria:ART</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title xml:lang="es-ES">Reconstruction of the execution times dynamics of real-time tasks by fuzzy digital filtering</dc:title>
+                    <dc:creator>Valdez Martínez, Jorge Salvador; Instituto Politécnico Nacional</dc:creator>
+                    <dc:creator>Delgado Reyes, Gustavo; Instituto Politécnico Nacional</dc:creator>
+                    <dc:creator>Guevara López, Pedro; Instituto Politécnico Nacional</dc:creator>
+                    <dc:creator>García Infante, Juan Carlos; Instituto Politécnico Nacional</dc:creator>
+                    <dc:subject xml:lang="es-ES">Computación; Sistemas en Tiempo real; Filtrado Digital</dc:subject>
+                    <dc:subject xml:lang="es-ES">Real-time task, execution time, estimator, fuzzy filtering, reconstruction</dc:subject>
+                    <dc:description xml:lang="es-ES">Real-time systems (RTS) process their activities through tasks which in turn consist of a set of instances, each one of this real-time task (RTT) have six temporary constraints: arrival time, start time, execution time, end time, over time and deadline. Of these six constraints, the execution time depends directly on the software and hardware of the computer, because of that this temporary constraints varies due to external and internal factors, this variation may cause at least some instance does not satisfy the deadline, in this sense it is important to propose a model to reconstruct the behavior of the execution times for the purpose to determine the proportions of the Real-time System, propose appropriate techniques of fault tolerance and improve operating modules. Therefore in this paper, is proposed a model to reconstruct the execution times from measurements made at a program algorithm developed in the real-time operating system QNX Neutrino 6.5. This reconstruction is done by a model type autoregressive-moving-average integrated with parameter estimator constructed with a digital filtering procedure diffuse (FDD). To validate the reconstruction is used the mean square error which converges to a region close to zero and indicate that the reconstruction is good.</dc:description>
+                    <dc:publisher xml:lang="es-ES">Universidad de Antioquia</dc:publisher>
+                    <dc:contributor xml:lang="es-ES" />
+                    <dc:date>2014-02-12</dc:date>
+                    <dc:type>info:eu-repo/semantics/article</dc:type>
+                    <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+                    <dc:type xml:lang="es-ES">Artículo revisado por pares</dc:type>
+                    <dc:format>application/pdf</dc:format>
+                    <dc:identifier>http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/view/14002</dc:identifier>
+                    <dc:source xml:lang="es-ES">Revista Facultad de Ingeniería; núm. 70 (2014): Revista Facultad de Ingenieria; 155-166</dc:source>
+                    <dc:source>0120-6230</dc:source>
+                    <dc:language>spa</dc:language>
+                    <dc:relation>http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/view/14002/16003</dc:relation>
+                    <dc:relation>http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/downloadSuppFile/14002/3205</dc:relation>
+                    <dc:relation>http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/downloadSuppFile/14002/3206</dc:relation>
+                    <dc:rights xml:lang="es-ES">Todos los textos incluidos en la Revista Facultad de Ingeniería están protegidos por derechos de autor. Conforme a la ley, está prohibida su reproducción por cualquier medio, mecánico o electrónico, sin permiso escrito del Comité Editorial. Los textos completos de los artículos son de acceso abierto, esto es: se pueden leer, descargar, copiar, distribuir, imprimir, buscar o vincular. Las opiniones expresadas en los artículos publicados son las de los autores y no coinciden necesariamente con las del Comité Editorial ni las de la administración de la Facultad.</dc:rights>
+                    <dc:rights xml:lang="en-US">All the texts included in the School of Engineering Journal are protected by copyrights. According to the law, their reproduction through any means, physical or electronic, without written consent by the Editorial Committee is forbidden.  Complete texts of the articles will be fully and publically available, which means that they can be read, downloaded, copied, distributed, printed, searched for, or linked to. The opinions expressed in the published articles specifically belong to the authors and are not necessarily the same of the Editorial Committee or of the School of Engineering Management.</dc:rights>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/13747</identifier>
+                <datestamp>2014-08-06T14:44:10Z</datestamp>
+                <setSpec>ingenieria:ART</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title xml:lang="es-ES">Virtual laboratory for simulation and learning of cardiovascular system function in BME studies</dc:title>
+                    <dc:creator>Hernández Valdivieso, Alher Mauricio; Universidad de Antioquia</dc:creator>
+                    <dc:creator>Salazar Sánchez, María Bernarda; Universidad de Antioquia</dc:creator>
+                    <dc:creator>Urrego Higuita, David Alexander; Universidad de Antioquia</dc:creator>
+                    <dc:creator>Costa-Castelló, Ramon; Universitat Politècnica de Catalunya</dc:creator>
+                    <dc:creator>Mañanas Villanueva, Miguel Ángel; Universitat Politècnica de Catalunya</dc:creator>
+                    <dc:subject xml:lang="es-ES" />
+                    <dc:subject xml:lang="es-ES">Biomedical engineering, interactivity, circulatory system, EJS</dc:subject>
+                    <dc:description xml:lang="es-ES">The application of engineering system analysis is a very important field in biomedical engineering (BME) studies: modeling, simulation and control of the most important physiological systems. A virtual laboratory for the analysis and the study of human circulatory system is presented in this paper. This laboratory is based on the compilation of several mathematical models described in the literature. In addition, some model parameters have been tuned by means of experimental data under caffeine stimulus. The computationaltool has been built using MATLAB/SIMULINK and EJS, so it combines good computation capabilities with interactivity. The virtual laboratory has been designed in order to understand the operation of the circulatory system under normal conditions, and to predict circulatory variables at different types and levels of stimuli and conditions.</dc:description>
+                    <dc:publisher xml:lang="es-ES">Universidad de Antioquia</dc:publisher>
+                    <dc:contributor xml:lang="es-ES" />
+                    <dc:date>2012-11-29</dc:date>
+                    <dc:type>info:eu-repo/semantics/article</dc:type>
+                    <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+                    <dc:type xml:lang="es-ES">Artículo revisado por pares</dc:type>
+                    <dc:format>application/pdf</dc:format>
+                    <dc:identifier>http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/view/13747</dc:identifier>
+                    <dc:source xml:lang="es-ES">Revista Facultad de Ingeniería; núm. 60 (2011): Revista Facultad de Ingeniería; 194-201</dc:source>
+                    <dc:source>0120-6230</dc:source>
+                    <dc:language>spa</dc:language>
+                    <dc:relation>http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/view/13747/12196</dc:relation>
+                    <dc:rights xml:lang="es-ES">Todos los textos incluidos en la Revista Facultad de Ingeniería están protegidos por derechos de autor. Conforme a la ley, está prohibida su reproducción por cualquier medio, mecánico o electrónico, sin permiso escrito del Comité Editorial. Los textos completos de los artículos son de acceso abierto, esto es: se pueden leer, descargar, copiar, distribuir, imprimir, buscar o vincular. Las opiniones expresadas en los artículos publicados son las de los autores y no coinciden necesariamente con las del Comité Editorial ni las de la administración de la Facultad.</dc:rights>
+                    <dc:rights xml:lang="en-US">All the texts included in the School of Engineering Journal are protected by copyrights. According to the law, their reproduction through any means, physical or electronic, without written consent by the Editorial Committee is forbidden.  Complete texts of the articles will be fully and publically available, which means that they can be read, downloaded, copied, distributed, printed, searched for, or linked to. The opinions expressed in the published articles specifically belong to the authors and are not necessarily the same of the Editorial Committee or of the School of Engineering Management.</dc:rights>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/13539</identifier>
+                <datestamp>2014-08-08T16:03:49Z</datestamp>
+                <setSpec>ingenieria:ART</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title xml:lang="es-ES">Criodesecación atmosférica de papa (Solanum tuberosum)</dc:title>
+                    <dc:creator>Ramírez Navas, Juan Sebastián; Universidad del Valle</dc:creator>
+                    <dc:creator>Cañizares S., Jorge E.; Universidad Central del Ecuador</dc:creator>
+                    <dc:creator>Acevedo C., Diofanor; Universidad de Cartagena</dc:creator>
+                    <dc:subject xml:lang="es-ES" />
+                    <dc:subject xml:lang="es-ES">Papa (Solanum tuberosum), Crio-Desecación Atmosférica, Transferencia de masa y calor, Índice de rehidratación, Índice de amarillez *</dc:subject>
+                    <dc:description xml:lang="es-ES">Mediante la aplicación del proceso conocido como crio-desecación atmosférica (CDA) usando temperaturas bajas y cloruro de calcio o silicagel como agentes higroscópicos, se deshidrataron dos variedades de papa, Gabriela y Chaucha. A las papas se les realizó tres diferentes pretratamientos. Con los datos obtenidos se calcularon: (i) los valores de los coeficientes de transferencia superficial de masa (de 61.77 a 148.55 kg·m-2·s-1), (ii) de calor (de 5.75 a 11.22 W·m-2·°C-1), (iii) el número adimensional (de 1.03 a 3.98), (iv) el tiempo de secado (de 200.00 a 303.26 h), y (v) el índice de rehidratación (de 1.7 a 2.7). Además, se evaluó qué mecanismo de transferencia de masa controla la CDA, se analizó los cambios de color del producto durante tres etapas del proceso, empleando el índice de amarillez, y se evaluaron las propiedades microbiológicas de las papas crio-desecadas atmosféricamente. Se concluye que el secado de rodajas de papa por CDA permite eliminar el crecimiento microbiológico y las reacciones químicas, pero es necesario realizar pretratamientos para evitar el pardamiento.</dc:description>
+                    <dc:publisher xml:lang="es-ES">Universidad de Antioquia</dc:publisher>
+                    <dc:contributor xml:lang="es-ES" />
+                    <dc:date>2012-11-15</dc:date>
+                    <dc:type>info:eu-repo/semantics/article</dc:type>
+                    <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+                    <dc:type xml:lang="es-ES">Artículo revisado por pares</dc:type>
+                    <dc:format>application/pdf</dc:format>
+                    <dc:identifier>http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/view/13539</dc:identifier>
+                    <dc:source xml:lang="es-ES">Revista Facultad de Ingeniería; núm. 61 (2011): Revista Facultad de Ingeniería; 74-82</dc:source>
+                    <dc:source>0120-6230</dc:source>
+                    <dc:language>spa</dc:language>
+                    <dc:relation>http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/view/13539/12081</dc:relation>
+                    <dc:rights xml:lang="es-ES">Todos los textos incluidos en la Revista Facultad de Ingeniería están protegidos por derechos de autor. Conforme a la ley, está prohibida su reproducción por cualquier medio, mecánico o electrónico, sin permiso escrito del Comité Editorial. Los textos completos de los artículos son de acceso abierto, esto es: se pueden leer, descargar, copiar, distribuir, imprimir, buscar o vincular. Las opiniones expresadas en los artículos publicados son las de los autores y no coinciden necesariamente con las del Comité Editorial ni las de la administración de la Facultad.</dc:rights>
+                    <dc:rights xml:lang="en-US">All the texts included in the School of Engineering Journal are protected by copyrights. According to the law, their reproduction through any means, physical or electronic, without written consent by the Editorial Committee is forbidden.  Complete texts of the articles will be fully and publically available, which means that they can be read, downloaded, copied, distributed, printed, searched for, or linked to. The opinions expressed in the published articles specifically belong to the authors and are not necessarily the same of the Editorial Committee or of the School of Engineering Management.</dc:rights>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/16021</identifier>
+                <datestamp>2014-12-05T15:39:21Z</datestamp>
+                <setSpec>ingenieria:ART</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title xml:lang="es-ES">Plan de muestreo para la cuantificación de residuos sólidos residenciales generados en las zonas urbanas de ciudades de tamaño intermedio</dc:title>
+                    <dc:creator>Olaya, Javier; Universidad del Valle</dc:creator>
+                    <dc:creator>A Klinger, Rafael; Universidad del Valle</dc:creator>
+                    <dc:creator>Marmolejo, Luis; Universidad del Valle</dc:creator>
+                    <dc:creator>Madera, Carlos; Universidad del Valle</dc:creator>
+                    <dc:subject xml:lang="es-ES" />
+                    <dc:subject xml:lang="es-ES">Muestreo bietápico, muestreo por conglomerados, estimadores de razón, muestreo piloto, sesgo de estimación, PPC, GPC</dc:subject>
+                    <dc:description xml:lang="es-ES">Se propone un plan de muestreo para ciudades de tamaño mediano, que inicia con un muestreo bietápico piloto que conduce a una estimación del tamaño de muestra cuando se utiliza un estimador de razón. En el muestreo bietápico se utiliza el lado de manzana como unidad primaria de muestreo seguida de las viviendas como unidades secundarias. A partir de un marco muestral conformado por lados de manzana, se selecciona la muestra de lados de manzana para satisfacer un error de muestreo máximo del 5% con un nivel de confianza del 95%. Dentro del lado de manzana se seleccionan las viviendas luego de identificar aquellas que son aptas para el estudio (aquellas viviendas que se usan como lugar de habitación exclusivamente). La identificación se realiza mediante una visita de sensibilización en la cual se construye un plano a mano alzada del lado, en el cual se identifican las viviendas aptas. El propósito de este trabajo es presentar el diseño del plan de muestreo y su ejecución y proponerlo como un método utilizable para determinar cantidad de generación de residuos sólidos de origen residencial en ciudades de tamaño similar en países en vías de desarrollo.</dc:description>
+                    <dc:publisher xml:lang="es-ES">Universidad de Antioquia</dc:publisher>
+                    <dc:contributor xml:lang="es-ES" />
+                    <dc:date>2013-07-24</dc:date>
+                    <dc:type>info:eu-repo/semantics/article</dc:type>
+                    <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+                    <dc:type xml:lang="es-ES">Artículo revisado por pares</dc:type>
+                    <dc:format>application/pdf</dc:format>
+                    <dc:identifier>http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/view/16021</dc:identifier>
+                    <dc:source xml:lang="es-ES">Revista Facultad de Ingeniería; núm. 48 (2009): Revista Facultad de Ingeniería; 76-86</dc:source>
+                    <dc:source>0120-6230</dc:source>
+                    <dc:language>spa</dc:language>
+                    <dc:relation>http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/view/16021/13890</dc:relation>
+                    <dc:rights xml:lang="es-ES">Todos los textos incluidos en la Revista Facultad de Ingeniería están protegidos por derechos de autor. Conforme a la ley, está prohibida su reproducción por cualquier medio, mecánico o electrónico, sin permiso escrito del Comité Editorial. Los textos completos de los artículos son de acceso abierto, esto es: se pueden leer, descargar, copiar, distribuir, imprimir, buscar o vincular. Las opiniones expresadas en los artículos publicados son las de los autores y no coinciden necesariamente con las del Comité Editorial ni las de la administración de la Facultad.</dc:rights>
+                    <dc:rights xml:lang="en-US">All the texts included in the School of Engineering Journal are protected by copyrights. According to the law, their reproduction through any means, physical or electronic, without written consent by the Editorial Committee is forbidden.  Complete texts of the articles will be fully and publically available, which means that they can be read, downloaded, copied, distributed, printed, searched for, or linked to. The opinions expressed in the published articles specifically belong to the authors and are not necessarily the same of the Editorial Committee or of the School of Engineering Management.</dc:rights>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/21194</identifier>
+                <datestamp>2014-12-03T14:42:48Z</datestamp>
+                <setSpec>ingenieria:PRES</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title xml:lang="es-ES">Preliminares</dc:title>
+                    <dc:creator>Botero, Maryory Astrid Gómez; Universidad de Antioquia</dc:creator>
+                    <dc:description xml:lang="es-ES" />
+                    <dc:publisher xml:lang="es-ES">Universidad de Antioquia</dc:publisher>
+                    <dc:contributor xml:lang="es-ES" />
+                    <dc:date>2014-12-03</dc:date>
+                    <dc:type>info:eu-repo/semantics/article</dc:type>
+                    <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+                    <dc:type xml:lang="es-ES" />
+                    <dc:format>application/pdf</dc:format>
+                    <dc:identifier>http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/view/21194</dc:identifier>
+                    <dc:source xml:lang="es-ES">Revista Facultad de Ingeniería; núm. 71 (2014): Revista Facultad de Ingenieria; 1-7</dc:source>
+                    <dc:source>0120-6230</dc:source>
+                    <dc:language>spa</dc:language>
+                    <dc:relation>http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/view/21194/17704</dc:relation>
+                    <dc:rights xml:lang="es-ES">Todos los textos incluidos en la Revista Facultad de Ingeniería están protegidos por derechos de autor. Conforme a la ley, está prohibida su reproducción por cualquier medio, mecánico o electrónico, sin permiso escrito del Comité Editorial. Los textos completos de los artículos son de acceso abierto, esto es: se pueden leer, descargar, copiar, distribuir, imprimir, buscar o vincular. Las opiniones expresadas en los artículos publicados son las de los autores y no coinciden necesariamente con las del Comité Editorial ni las de la administración de la Facultad.</dc:rights>
+                    <dc:rights xml:lang="en-US">All the texts included in the School of Engineering Journal are protected by copyrights. According to the law, their reproduction through any means, physical or electronic, without written consent by the Editorial Committee is forbidden.  Complete texts of the articles will be fully and publically available, which means that they can be read, downloaded, copied, distributed, printed, searched for, or linked to. The opinions expressed in the published articles specifically belong to the authors and are not necessarily the same of the Editorial Committee or of the School of Engineering Management.</dc:rights>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/18658</identifier>
+                <datestamp>2014-12-03T14:39:32Z</datestamp>
+                <setSpec>ingenieria:ART</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title xml:lang="es-ES">Design and simulation of an attitude determination system based on the Extended Kalman Filter for Cube-Sat Colombia I</dc:title>
+                    <dc:creator>A. Castellanos, Cesar; Universidad Distrital FJC</dc:creator>
+                    <dc:creator>Aparicio Pico, Lilia Edith; Universidad Distrital FJC</dc:creator>
+                    <dc:subject xml:lang="es-ES" />
+                    <dc:subject xml:lang="es-ES">Attitude determination system, extended Kalman filter, non deterministic and deterministic algorithm, picosatellite Colombia I</dc:subject>
+                    <dc:description xml:lang="es-ES">The purpose of this document is to describe the design and simulation of an attitude determination system (ADS) for the CubeSat Colombia I picosatellite, based on an extended Kalman filter EKF [1,2]. In this development the propagation of the State of the system has been implemented through a Runge-Kutta procedure instead of traditional State Transition matrix method, improving predictions from the EKF filter without making direct measurements of angular velocity, it was obtained a reduced prediction time by incorporating a deterministic algorithm (the TRIAD algorithm) within the EKF. The results validated through simulation are those shown in this article.</dc:description>
+                    <dc:publisher xml:lang="es-ES">Universidad de Antioquia</dc:publisher>
+                    <dc:contributor xml:lang="es-ES" />
+                    <dc:date>2014-02-27</dc:date>
+                    <dc:type>info:eu-repo/semantics/article</dc:type>
+                    <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+                    <dc:type xml:lang="es-ES">Artículo revisado por pares</dc:type>
+                    <dc:format>application/pdf</dc:format>
+                    <dc:identifier>http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/view/18658</dc:identifier>
+                    <dc:source xml:lang="es-ES">Revista Facultad de Ingeniería; núm. 70 (2014): Revista Facultad de Ingenieria; 146-154</dc:source>
+                    <dc:source>0120-6230</dc:source>
+                    <dc:language>spa</dc:language>
+                    <dc:relation>http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/view/18658/16002</dc:relation>
+                    <dc:rights xml:lang="es-ES">Todos los textos incluidos en la Revista Facultad de Ingeniería están protegidos por derechos de autor. Conforme a la ley, está prohibida su reproducción por cualquier medio, mecánico o electrónico, sin permiso escrito del Comité Editorial. Los textos completos de los artículos son de acceso abierto, esto es: se pueden leer, descargar, copiar, distribuir, imprimir, buscar o vincular. Las opiniones expresadas en los artículos publicados son las de los autores y no coinciden necesariamente con las del Comité Editorial ni las de la administración de la Facultad.</dc:rights>
+                    <dc:rights xml:lang="en-US">All the texts included in the School of Engineering Journal are protected by copyrights. According to the law, their reproduction through any means, physical or electronic, without written consent by the Editorial Committee is forbidden.  Complete texts of the articles will be fully and publically available, which means that they can be read, downloaded, copied, distributed, printed, searched for, or linked to. The opinions expressed in the published articles specifically belong to the authors and are not necessarily the same of the Editorial Committee or of the School of Engineering Management.</dc:rights>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/14602</identifier>
+                <datestamp>2014-08-06T14:36:37Z</datestamp>
+                <setSpec>ingenieria:ART</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title xml:lang="es-ES">Desempeño de insertos de WC recubiertos con nanomulticapas de [TiN/TiAlN]n en el mecanizado del acero endurecido AISI 4340</dc:title>
+                    <dc:creator>Moreno, Luis Henry; Grupo GIDEM, CDT ASTIN, SENA</dc:creator>
+                    <dc:creator>Caicedo, Julio Cesar; Universidad del Valle</dc:creator>
+                    <dc:creator>Bejarano Gaitan, Gilberto; Universidad de Antioquia</dc:creator>
+                    <dc:creator>Martínez, Federico; Facultad de Ingeniería Mecánica ISPJAE</dc:creator>
+                    <dc:creator>Prieto Pulido, Pedro; Universidad del Valle</dc:creator>
+                    <dc:subject xml:lang="es-ES" />
+                    <dc:subject xml:lang="es-ES">Multinanocapas, resistencia al desgaste, rugosidad superficial, pulverización catódica</dc:subject>
+                    <dc:description xml:lang="es-ES">En el presente trabajo se muestran los resultados de la resistencia al desgaste de insertos de carburo de tungsteno (WC) sin recubrir y recubiertos con multinanocapas de [TiN/TiAlN]n con un espesor total promedio del recubrimiento de 4 μm, así como de insertos recubiertos con monocapas comerciales de TiCN-Al2O3-TiN (TINAL). Se realizaron ensayos de vida útil, análisis de temperatura en la zona de corte, mediciones de rugosidad superficial sobre la pieza y sobre los insertos en la superficie de ataque, análisis de huella de contacto entre viruta-insertos y análisis de composición química (EDS). Los ensayos se realizaron sobre piezas de acero AISI 4340 utilizando régimen de corte de acabado y aplicando altas velocidades de corte (HSC). Los resultados de mecanizado de acero, para un recorrido de 8.000 metros con diferentes insertos de carburo de tungsteno (WC), sin recubrimiento y recubiertos presentaron valores de desgaste de 0,117 mm y 0,138 mm; en relación a los insertos recubiertos con 300 y 200 bicapas de TiN/TiAlN, respectivamente. De igual manera, los insertos recubiertos con TINAL exhibieron valores de desgaste de 0,174 mm. Además, los valores de temperatura en la zona de corte y para una velocidad de corte de 176,6 m/mim fueron de 522,6 oC para los recubrimientos con 300 bicapas, de 721,4 oC para aquellos con 200 bicapas, y de 1.327,6 oC para los insertos recubiertos con TINAL. La disminución de la temperatura en la zona de corte, relacionada con un menor coeficiente de fricción y una menor fuerza de corte, contribuyeron al alargamiento de la vida útil de los insertos.</dc:description>
+                    <dc:publisher xml:lang="es-ES">Universidad de Antioquia</dc:publisher>
+                    <dc:contributor xml:lang="es-ES" />
+                    <dc:date>2013-02-27</dc:date>
+                    <dc:type>info:eu-repo/semantics/article</dc:type>
+                    <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+                    <dc:type xml:lang="es-ES">Artículo revisado por pares</dc:type>
+                    <dc:format>application/pdf</dc:format>
+                    <dc:identifier>http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/view/14602</dc:identifier>
+                    <dc:source xml:lang="es-ES">Revista Facultad de Ingeniería; núm. 58 (2011): Revista Facultad de Ingeniería; 85-94</dc:source>
+                    <dc:source>0120-6230</dc:source>
+                    <dc:language>spa</dc:language>
+                    <dc:relation>http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/view/14602/12766</dc:relation>
+                    <dc:rights xml:lang="es-ES">Todos los textos incluidos en la Revista Facultad de Ingeniería están protegidos por derechos de autor. Conforme a la ley, está prohibida su reproducción por cualquier medio, mecánico o electrónico, sin permiso escrito del Comité Editorial. Los textos completos de los artículos son de acceso abierto, esto es: se pueden leer, descargar, copiar, distribuir, imprimir, buscar o vincular. Las opiniones expresadas en los artículos publicados son las de los autores y no coinciden necesariamente con las del Comité Editorial ni las de la administración de la Facultad.</dc:rights>
+                    <dc:rights xml:lang="en-US">All the texts included in the School of Engineering Journal are protected by copyrights. According to the law, their reproduction through any means, physical or electronic, without written consent by the Editorial Committee is forbidden.  Complete texts of the articles will be fully and publically available, which means that they can be read, downloaded, copied, distributed, printed, searched for, or linked to. The opinions expressed in the published articles specifically belong to the authors and are not necessarily the same of the Editorial Committee or of the School of Engineering Management.</dc:rights>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/14677</identifier>
+                <datestamp>2014-08-06T14:20:35Z</datestamp>
+                <setSpec>ingenieria:ART</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title xml:lang="es-ES">Degradación y adsorción del colorante AZO RR239 en solución acuosa, por partículas de hierro “zero-valente” a nanoescala, inmovilizadas sobre aserrín</dc:title>
+                    <dc:creator>Sánchez, Nedher; Universidad de Antioquia</dc:creator>
+                    <dc:creator>Vazquez, Mario; Universidad de Antioquia</dc:creator>
+                    <dc:creator>Torresi, Roberto; Universidad de São Paulo</dc:creator>
+                    <dc:subject xml:lang="es-ES" />
+                    <dc:subject xml:lang="es-ES">Partículas de hierro valencia cero (ZVI), colorantes azo, adsorción, cinética de adsorción, seudo segundo orden</dc:subject>
+                    <dc:description xml:lang="es-ES">Se reportan resultados de adsorción del colorante RR239 (colorante reactivo azo) con aserrín pretratado con formaldehído, los experimentos se realizaron a dos valores de pH y considerando el efecto de nanopartículas de hierro de valencia cero. Los datos cinéticos de adsorción se ajustaron bien a un modelo de seudo segundo orden. Los experimentos realizados en el sistema por lotes sugieren que la eficiencia de la decoloración esta fuertemente influenciada por la presencia de partículas de ZVI y bajos pH. La cinética de adsorción por la mezcla de adsorbente (5 g de aserrín y 180 mg de ZVI) a pH 2,0 fue rápida, lográndose más del 90% de la decoloración en 3 minutos.</dc:description>
+                    <dc:publisher xml:lang="es-ES">Universidad de Antioquia</dc:publisher>
+                    <dc:contributor xml:lang="es-ES" />
+                    <dc:date>2013-02-28</dc:date>
+                    <dc:type>info:eu-repo/semantics/article</dc:type>
+                    <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+                    <dc:type xml:lang="es-ES">Artículo revisado por pares</dc:type>
+                    <dc:format>application/pdf</dc:format>
+                    <dc:identifier>http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/view/14677</dc:identifier>
+                    <dc:source xml:lang="es-ES">Revista Facultad de Ingeniería; núm. 55 (2010): Revista Facultad de Ingeniería; 18-25</dc:source>
+                    <dc:source>0120-6230</dc:source>
+                    <dc:language>spa</dc:language>
+                    <dc:relation>http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/view/14677/12832</dc:relation>
+                    <dc:rights xml:lang="es-ES">Todos los textos incluidos en la Revista Facultad de Ingeniería están protegidos por derechos de autor. Conforme a la ley, está prohibida su reproducción por cualquier medio, mecánico o electrónico, sin permiso escrito del Comité Editorial. Los textos completos de los artículos son de acceso abierto, esto es: se pueden leer, descargar, copiar, distribuir, imprimir, buscar o vincular. Las opiniones expresadas en los artículos publicados son las de los autores y no coinciden necesariamente con las del Comité Editorial ni las de la administración de la Facultad.</dc:rights>
+                    <dc:rights xml:lang="en-US">All the texts included in the School of Engineering Journal are protected by copyrights. According to the law, their reproduction through any means, physical or electronic, without written consent by the Editorial Committee is forbidden.  Complete texts of the articles will be fully and publically available, which means that they can be read, downloaded, copied, distributed, printed, searched for, or linked to. The opinions expressed in the published articles specifically belong to the authors and are not necessarily the same of the Editorial Committee or of the School of Engineering Management.</dc:rights>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/17919</identifier>
+                <datestamp>2014-12-05T15:43:43Z</datestamp>
+                <setSpec>ingenieria:ART</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title xml:lang="es-ES">Mejoramiento de la resistencia a la corrosión del acero AISI 4140 utilizando multicapas de titanio/nitruro de titanio</dc:title>
+                    <dc:creator>Bejarano, Gilberto; Universidad de Antioquia</dc:creator>
+                    <dc:creator>Aperador, William; Universidad del Valle</dc:creator>
+                    <dc:creator>Caicedo, Julio César; Universidad del Valle</dc:creator>
+                    <dc:creator>Correa, Faber; 1Universidad Autónoma de Occidente</dc:creator>
+                    <dc:creator>Rincón, Carlos Alberto; Universidad del Cauca</dc:creator>
+                    <dc:subject xml:lang="es-ES" />
+                    <dc:subject xml:lang="es-ES">multicapas, pulverización catódica, nitruro de titanio, corrosión.</dc:subject>
+                    <dc:description xml:lang="es-ES">El acero 4140 se utiliza ampliamente en la fabricación de partes de máquinas con durezas entre 25-35 Rockwell C. Sin embargo, su vida útil se ve limitada por su baja resistencia al desgaste y a la corrosión. Con el fin de mejorar su comportamiento frente a la corrosión se depositaron multicapas de Titanio/Nitruro de Titanio (Ti/TiN) sobre substratos de acero 4140 mediante un sistema multi-blanco d.c. magnetrón sputtering a partir de un blanco de Ti de alta pureza (99,99%) en una atmósfera de Ar/N2. Con el objeto de estudiar el efecto del número de capas sobre la velocidad de corrosión de las películas depositadas, se crecieron multicapas con 1, 5, 10, 15, y 20 bicapas de [Ti /TiN], manteniendo un espesor total constante de 3 μm en todas ellas. Las fases existentes y composición química de los recubrimientos fueron analizados mediante espectroscopía de difracción de rayos X (XRD) y espectroscopía de energía dispersiva de rayos X (EDX) respectivamente. Las muestras de acero sin y con recubrimiento se caracterizaron además por Espectroscopía de Impedancia Electroquímica (EIS) y curvas de polarización Tafel. Se encontró que la velocidad de corrosión tuvo una disminución alrededor del 87% en el acero recubierto con 20 bicapas de Ti/TiN en comparación al acero sin recubrir y del 25% respecto a la muestra recubierta con 1 bicapa, lo cual evidencia el efecto positivo del incremento del período en las películas delgadas basadas en multicapas de Ti/TiN.</dc:description>
+                    <dc:publisher xml:lang="es-ES">Universidad de Antioquia</dc:publisher>
+                    <dc:contributor xml:lang="es-ES" />
+                    <dc:date>2013-12-10</dc:date>
+                    <dc:type>info:eu-repo/semantics/article</dc:type>
+                    <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+                    <dc:type xml:lang="es-ES">Artículo revisado por pares</dc:type>
+                    <dc:format>application/pdf</dc:format>
+                    <dc:identifier>http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/view/17919</dc:identifier>
+                    <dc:source xml:lang="es-ES">Revista Facultad de Ingeniería; núm. 46 (2008): Revista Facultada de Ingeniería; 7-14</dc:source>
+                    <dc:source>0120-6230</dc:source>
+                    <dc:language>spa</dc:language>
+                    <dc:relation>http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/view/17919/15393</dc:relation>
+                    <dc:rights xml:lang="es-ES">Todos los textos incluidos en la Revista Facultad de Ingeniería están protegidos por derechos de autor. Conforme a la ley, está prohibida su reproducción por cualquier medio, mecánico o electrónico, sin permiso escrito del Comité Editorial. Los textos completos de los artículos son de acceso abierto, esto es: se pueden leer, descargar, copiar, distribuir, imprimir, buscar o vincular. Las opiniones expresadas en los artículos publicados son las de los autores y no coinciden necesariamente con las del Comité Editorial ni las de la administración de la Facultad.</dc:rights>
+                    <dc:rights xml:lang="en-US">All the texts included in the School of Engineering Journal are protected by copyrights. According to the law, their reproduction through any means, physical or electronic, without written consent by the Editorial Committee is forbidden.  Complete texts of the articles will be fully and publically available, which means that they can be read, downloaded, copied, distributed, printed, searched for, or linked to. The opinions expressed in the published articles specifically belong to the authors and are not necessarily the same of the Editorial Committee or of the School of Engineering Management.</dc:rights>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/14715</identifier>
+                <datestamp>2014-08-06T14:20:35Z</datestamp>
+                <setSpec>ingenieria:ART</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title xml:lang="es-ES">Estudio de la vaporización de elementos traza durante la combustión de barros cloacales</dc:title>
+                    <dc:creator>Rodríguez, Rosa; Universidad Nacional de San Juan</dc:creator>
+                    <dc:creator>Palacios, Carlos; Universidad Nacional de San Juan</dc:creator>
+                    <dc:creator>Gauthier, Daniel; PROMES-CNRS</dc:creator>
+                    <dc:creator>Udaquiola, Stella; Universidad Nacional de San Juan</dc:creator>
+                    <dc:creator>Martínez, Osvaldo; Universidad Nacional de La Plata</dc:creator>
+                    <dc:creator>Mazza, Germán; Universidad Nacional del Comahue</dc:creator>
+                    <dc:creator>Flamant, Gilles; PROMES-CNRS</dc:creator>
+                    <dc:subject xml:lang="es-ES" />
+                    <dc:subject xml:lang="es-ES">elementos traza, barros cloacales, combustión, estudio termodinámico, fluidización</dc:subject>
+                    <dc:description xml:lang="es-ES">Se estudió el comportamiento de 11 elementos traza durante la incineración de barros cloacales y su co-combustión con residuos sólidos municipales desde el punto de vista termodinámico, con el fin de observar la influencia de diferentes variables del proceso. Los cálculos termodinámicos se realizaron simulando la atmósfera de combustión existente durante la combustión de barros cloacales, en un rango de temperatura entre 200 y 1000 ºC, trabajando a presión atmosférica. Se analizó además la presencia de cloro y azufre en dicha atmósfera, debido a que éstos pueden estar presentes durante la co-combustión con residuos sólidos municipales. Desde el punto de vista experimental se incineraron los barros cloacales en un lecho fluidizado. El trabajo se focalizó en el comportamiento de tres metales tóxicos representativos: Cd, Pb y Zn. Los resultados de este estudio permiten concluir, desde el punto de vista termodinámico, que la co-combustión con residuos sólidos municipales no favorecería la vaporización de los elementos traza, ya que los cloruros metálicos reaccionarían con el agua formando óxidos y serían retenidos por la matriz mineral. El estudio experimental nos muestra que la vaporización de los metales pesados es altamente dependiente de las condiciones de operación.</dc:description>
+                    <dc:publisher xml:lang="es-ES">Universidad de Antioquia</dc:publisher>
+                    <dc:contributor xml:lang="es-ES" />
+                    <dc:date>2013-03-01</dc:date>
+                    <dc:type>info:eu-repo/semantics/article</dc:type>
+                    <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+                    <dc:type xml:lang="es-ES">Artículo revisado por pares</dc:type>
+                    <dc:format>application/pdf</dc:format>
+                    <dc:identifier>http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/view/14715</dc:identifier>
+                    <dc:source xml:lang="es-ES">Revista Facultad de Ingeniería; núm. 55 (2010): Revista Facultad de Ingeniería; 66-75</dc:source>
+                    <dc:source>0120-6230</dc:source>
+                    <dc:language>spa</dc:language>
+                    <dc:relation>http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/view/14715/12866</dc:relation>
+                    <dc:rights xml:lang="es-ES">Todos los textos incluidos en la Revista Facultad de Ingeniería están protegidos por derechos de autor. Conforme a la ley, está prohibida su reproducción por cualquier medio, mecánico o electrónico, sin permiso escrito del Comité Editorial. Los textos completos de los artículos son de acceso abierto, esto es: se pueden leer, descargar, copiar, distribuir, imprimir, buscar o vincular. Las opiniones expresadas en los artículos publicados son las de los autores y no coinciden necesariamente con las del Comité Editorial ni las de la administración de la Facultad.</dc:rights>
+                    <dc:rights xml:lang="en-US">All the texts included in the School of Engineering Journal are protected by copyrights. According to the law, their reproduction through any means, physical or electronic, without written consent by the Editorial Committee is forbidden.  Complete texts of the articles will be fully and publically available, which means that they can be read, downloaded, copied, distributed, printed, searched for, or linked to. The opinions expressed in the published articles specifically belong to the authors and are not necessarily the same of the Editorial Committee or of the School of Engineering Management.</dc:rights>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:ojs.aprendeenlinea.udea.edu.co:article/14934</identifier>
+                <datestamp>2014-08-06T13:59:02Z</datestamp>
+                <setSpec>ingenieria:ART</setSpec>
+            </header>
+            <metadata>
+                <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title xml:lang="es-ES">Fenomenología de la esterilización de alimentos líquidos enlatados</dc:title>
+                    <dc:creator>Alvarado, Juan; Instituto Tecnológico de Celaya Ave</dc:creator>
+                    <dc:creator>Martínez, Gloria; Instituto Tecnológico de Celaya Ave</dc:creator>
+                    <dc:creator>Navarrete, José; Instituto Tecnológico de Celaya Ave</dc:creator>
+                    <dc:creator>Botello, Enrique; Instituto Tecnológico de Celaya Ave</dc:creator>
+                    <dc:creator>Calderón, Mario; Instituto Tecnológico de Celaya Ave</dc:creator>
+                    <dc:creator>Jiménez, Hugo; Instituto Tecnológico de Celaya Ave</dc:creator>
+                    <dc:subject xml:lang="es-ES" />
+                    <dc:subject xml:lang="es-ES">Navier-Stokes, esterilización de alimentos, zona de calentamiento más lento (ZCL)</dc:subject>
+                    <dc:description xml:lang="es-ES">Esta revisión presenta una perspectiva sobre la evolución de la esterilización térmica de alimentos líquidos enlatados y la importancia que la modelación matemática y el análisis numérico computacional han tenido en la estimación del tiempo de esterilización equivalente.</dc:description>
+                    <dc:publisher xml:lang="es-ES">Universidad de Antioquia</dc:publisher>
+                    <dc:contributor xml:lang="es-ES" />
+                    <dc:date>2013-03-20</dc:date>
+                    <dc:type>info:eu-repo/semantics/article</dc:type>
+                    <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+                    <dc:type xml:lang="es-ES">Artículo revisado por pares</dc:type>
+                    <dc:format>application/pdf</dc:format>
+                    <dc:identifier>http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/view/14934</dc:identifier>
+                    <dc:source xml:lang="es-ES">Revista Facultad de Ingeniería; núm. 50 (2009): Revista Facultad de Ingeniería; 87-98</dc:source>
+                    <dc:source>0120-6230</dc:source>
+                    <dc:language>spa</dc:language>
+                    <dc:relation>http://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/article/view/14934/13059</dc:relation>
+                    <dc:rights xml:lang="es-ES">Todos los textos incluidos en la Revista Facultad de Ingeniería están protegidos por derechos de autor. Conforme a la ley, está prohibida su reproducción por cualquier medio, mecánico o electrónico, sin permiso escrito del Comité Editorial. Los textos completos de los artículos son de acceso abierto, esto es: se pueden leer, descargar, copiar, distribuir, imprimir, buscar o vincular. Las opiniones expresadas en los artículos publicados son las de los autores y no coinciden necesariamente con las del Comité Editorial ni las de la administración de la Facultad.</dc:rights>
+                    <dc:rights xml:lang="en-US">All the texts included in the School of Engineering Journal are protected by copyrights. According to the law, their reproduction through any means, physical or electronic, without written consent by the Editorial Committee is forbidden.  Complete texts of the articles will be fully and publically available, which means that they can be read, downloaded, copied, distributed, printed, searched for, or linked to. The opinions expressed in the published articles specifically belong to the authors and are not necessarily the same of the Editorial Committee or of the School of Engineering Management.</dc:rights>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <resumptionToken expirationDate="2015-02-26T16:54:34Z" completeListSize="727" cursor="0">ef03a4acbbd30f29cfb3d128d9e6f1d3</resumptionToken>
+    </ListRecords>
+</OAI-PMH>

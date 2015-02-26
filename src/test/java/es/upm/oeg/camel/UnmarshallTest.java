@@ -11,7 +11,7 @@ import javax.xml.datatype.XMLGregorianCalendar;
 import java.io.IOException;
 import java.util.List;
 
-public class ParseTest {
+public class UnmarshallTest {
 
 
     @Test

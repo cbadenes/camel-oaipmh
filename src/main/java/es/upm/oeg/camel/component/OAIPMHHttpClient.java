@@ -18,34 +18,25 @@ import java.net.URI;
 import java.net.URISyntaxException;
 import java.nio.charset.Charset;
 
-/**
- * Created by cbadenes on 23/02/15.
- */
 public class OAIPMHHttpClient {
 
     private static final Logger LOG = LoggerFactory.getLogger(OAIPMHHttpClient.class);
 
-    public String doRequest(OAIPMHEndpoint endpoint) throws IOException, URISyntaxException {
-
-        return doRequest(endpoint,null);
-    }
-
-    public String doRequest(OAIPMHEndpoint endpoint, ResumptionTokenType token) throws IOException, URISyntaxException {
+    public String doRequest(URI baseURI, String verb, String from, String until, String metadataPrefix, ResumptionTokenType token) throws IOException, URISyntaxException {
         CloseableHttpClient httpclient = HttpClients.createDefault();
         try {
-
-            URI baseURI = URI.create("http://"+endpoint.getUrl());
 
             URIBuilder builder = new URIBuilder();
             builder.setScheme(baseURI.getScheme())
                     .setHost(baseURI.getHost())
                     .setPath(baseURI.getPath())
-                    .setParameter("verb", endpoint.getVerb())
-                    .setParameter("metadataPrefix", endpoint.getMetadataPrefix())
-                    .setParameter("from", endpoint.getFrom());
+                    .addParameter("verb", verb);
 
             if (token != null){
-                builder.addParameter("resumptionToken", String.valueOf(token.getCursor()));
+                builder.addParameter("resumptionToken", String.valueOf(token.getValue()));
+            }else {
+                builder.addParameter("metadataPrefix", metadataPrefix)
+                        .addParameter("from", from);
             }
 
 
@@ -70,12 +61,13 @@ public class OAIPMHHttpClient {
 
             };
             String responseBody = httpclient.execute(httpget, responseHandler);
-            LOG.info("Response: {}",responseBody);
+            LOG.debug("Response received: {}",responseBody);
             return responseBody;
         } finally {
             httpclient.close();
         }
-
     }
+
+
 
 }
