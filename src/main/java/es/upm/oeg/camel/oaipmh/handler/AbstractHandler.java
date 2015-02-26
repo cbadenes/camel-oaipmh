@@ -3,8 +3,8 @@ package es.upm.oeg.camel.oaipmh.handler;
 
 import es.upm.oeg.camel.component.OAIPMHConsumer;
 import es.upm.oeg.camel.dataformat.oaipmh.OAIPMHConverter;
-import es.upm.oeg.camel.oaipmh.message.OAIPMHtype;
-import es.upm.oeg.camel.oaipmh.message.ObjectFactory;
+import es.upm.oeg.camel.oaipmh.model.OAIPMHtype;
+import es.upm.oeg.camel.oaipmh.model.ObjectFactory;
 import org.apache.camel.Endpoint;
 import org.apache.camel.Exchange;
 import org.apache.camel.Processor;

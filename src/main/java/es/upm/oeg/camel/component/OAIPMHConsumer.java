@@ -2,11 +2,11 @@ package es.upm.oeg.camel.component;
 
 import es.upm.oeg.camel.dataformat.oaipmh.OAIPMHConverter;
 import es.upm.oeg.camel.oaipmh.handler.ResponseHandler;
-import es.upm.oeg.camel.oaipmh.message.OAIPMHerrorType;
-import es.upm.oeg.camel.oaipmh.message.OAIPMHtype;
-import es.upm.oeg.camel.oaipmh.message.ObjectFactory;
-import es.upm.oeg.camel.oaipmh.message.ResumptionTokenType;
 import es.upm.oeg.camel.oaipmh.handler.ResponseHandlerFactory;
+import es.upm.oeg.camel.oaipmh.model.OAIPMHerrorType;
+import es.upm.oeg.camel.oaipmh.model.OAIPMHtype;
+import es.upm.oeg.camel.oaipmh.model.ObjectFactory;
+import es.upm.oeg.camel.oaipmh.model.ResumptionTokenType;
 import org.apache.camel.Processor;
 import org.apache.camel.impl.DefaultScheduledPollConsumer;
 import org.slf4j.Logger;

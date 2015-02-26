@@ -147,7 +147,7 @@
                     </execution>
                 </executions>
                 <configuration>
-                    <packageName>es.upm.oeg.camel.oaipmh.message</packageName>
+                    <packageName>es.upm.oeg.camel.oaipmh.model</packageName>
                     <outputDirectory>src/main/java</outputDirectory>
                     <addGeneratedAnnotation>true</addGeneratedAnnotation>
                     <clearOutputDir>false</clearOutputDir>

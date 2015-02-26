@@ -1,9 +1,9 @@
 package es.upm.oeg.camel.oaipmh.handler;
 
 import es.upm.oeg.camel.component.OAIPMHConsumer;
-import es.upm.oeg.camel.oaipmh.message.ListRecordsType;
-import es.upm.oeg.camel.oaipmh.message.OAIPMHtype;
-import es.upm.oeg.camel.oaipmh.message.RecordType;
+import es.upm.oeg.camel.oaipmh.model.ListRecordsType;
+import es.upm.oeg.camel.oaipmh.model.OAIPMHtype;
+import es.upm.oeg.camel.oaipmh.model.RecordType;
 
 import javax.xml.bind.JAXBException;
 

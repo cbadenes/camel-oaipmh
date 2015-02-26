@@ -3,7 +3,7 @@ package es.upm.oeg.camel;
 
 import com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl;
 import es.upm.oeg.camel.dataformat.oaipmh.OAIPMHConverter;
-import es.upm.oeg.camel.oaipmh.message.*;
+import es.upm.oeg.camel.oaipmh.model.*;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;

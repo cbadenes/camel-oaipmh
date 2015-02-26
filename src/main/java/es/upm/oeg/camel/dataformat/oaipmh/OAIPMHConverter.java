@@ -1,8 +1,8 @@
 package es.upm.oeg.camel.dataformat.oaipmh;
 
 import com.sun.xml.bind.marshaller.NamespacePrefixMapper;
-import es.upm.oeg.camel.oaipmh.message.OAIPMHtype;
-import es.upm.oeg.camel.oaipmh.message.ObjectFactory;
+import es.upm.oeg.camel.oaipmh.model.OAIPMHtype;
+import es.upm.oeg.camel.oaipmh.model.ObjectFactory;
 import org.apache.camel.Converter;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -21,6 +21,8 @@ public final class OAIPMHConverter {
 
     private static final Logger LOG = LoggerFactory.getLogger(OAIPMHConverter.class);
 
+    private static final String JAXB_PATH = "es.upm.oeg.camel.oaipmh.model";
+
     private static final ObjectFactory factory = new ObjectFactory();
 
     private OAIPMHConverter() {
@@ -28,7 +30,7 @@ public final class OAIPMHConverter {
 
     @Converter
     public static String oaipmhToXml(OAIPMHtype oaipmh) throws JAXBException {
-        JAXBContext context = JAXBContext.newInstance("es.upm.oeg.camel.oaipmh.message");
+        JAXBContext context = JAXBContext.newInstance(JAXB_PATH);
         Marshaller marshaller = context.createMarshaller();
         marshaller.setProperty(Marshaller.JAXB_FORMATTED_OUTPUT, Boolean.TRUE);
         NamespacePrefixMapper mapper = new NamespacePrefixMapper() {
@@ -55,7 +57,7 @@ public final class OAIPMHConverter {
 
     @Converter
     public static OAIPMHtype xmlToOaipmh(String xml) throws JAXBException {
-        JAXBContext context = JAXBContext.newInstance("es.upm.oeg.camel.oaipmh.message");
+        JAXBContext context = JAXBContext.newInstance(JAXB_PATH);
         InputStream stream = new ByteArrayInputStream(xml.getBytes(StandardCharsets.UTF_8));
         JAXBElement data = (JAXBElement) context.createUnmarshaller().unmarshal(stream);
         OAIPMHtype element =  OAIPMHtype.class.cast(data.getValue());

@@ -1,6 +1,6 @@
 package es.upm.oeg.camel.dataformat.oaipmh;
 
-import es.upm.oeg.camel.oaipmh.message.OAIPMHtype;
+import es.upm.oeg.camel.oaipmh.model.OAIPMHtype;
 import org.apache.camel.Exchange;
 import org.apache.camel.spi.DataFormat;
 import org.apache.camel.util.ExchangeHelper;

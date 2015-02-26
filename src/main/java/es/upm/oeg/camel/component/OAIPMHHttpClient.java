@@ -1,6 +1,6 @@
 package es.upm.oeg.camel.component;
 
-import es.upm.oeg.camel.oaipmh.message.ResumptionTokenType;
+import es.upm.oeg.camel.oaipmh.model.ResumptionTokenType;
 import org.apache.http.HttpEntity;
 import org.apache.http.HttpResponse;
 import org.apache.http.client.ClientProtocolException;
