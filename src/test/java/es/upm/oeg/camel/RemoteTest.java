@@ -29,7 +29,7 @@ public class RemoteTest extends CamelTestSupport {
                         "delay=60000&" +
                         "from=2013-01-01T00:00:00Z&"+
                         "initialDelay=2000")
-                        .unmarshal().jaxb("es.upm.oeg.camel.oaipmh.message")
+                        .unmarshal().jaxb("es.upm.oeg.camel.oaipmh.model")
                         //.to("stream:out");
                         .to("mock:result");
             }
