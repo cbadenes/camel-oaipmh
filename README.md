@@ -55,7 +55,12 @@ The **oaipmh** component ships with an OAIPMH dataformat that can be used to con
 More details about these xsd [here](http://www.openarchives.org/OAI/openarchivesprotocol.html#OAIPMHschema).
 
 A route using this would look something like this:
-`from("oaipmh://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/oai?delay=60000").unmarshal().jaxb("es.upm.oeg.camel.oaipmh.model").to("mock:result");`
+```txt
+from("oaipmh://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/oai?delay=60000").unmarshal().jaxb("es.upm.oeg.camel.oaipmh.model").to("mock:result");
+```
+
 
 The purpose of this feature is to make it possible to use Camel's lovely built-in expressions for manipulating OAI-PMH messages. As show below, an XPath expression can be used to filter the OAI-PMH message:
-`from("oaipmh://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/oai?delay=60000").unmarshal().jaxb("es.upm.oeg.camel.oaipmh.model").filter().xpath("//item/request/set[contains(.,'physics')]").to("mock:result");`
+```txt
+from("oaipmh://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/oai?delay=60000").unmarshal().jaxb("es.upm.oeg.camel.oaipmh.model").filter().xpath("//item/request/set[contains(.,'physics')]").to("mock:result");
+```
