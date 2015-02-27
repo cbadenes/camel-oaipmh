@@ -76,7 +76,7 @@ public class OAIPMHConsumer extends DefaultScheduledPollConsumer {
 
         // Check if incomplete list
         ResumptionTokenType newToken = responseObject.getListRecords().getResumptionToken();
-        return ((newToken.getValue() != null) && !(newToken.getValue().startsWith(" ")))? poll(newToken) : 1;
+        return ((newToken != null) && (newToken.getValue() != null) && !(newToken.getValue().startsWith(" ")))? poll(newToken) : 1;
     }
 
 
