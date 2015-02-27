@@ -16,6 +16,21 @@ Maven users will need to add the following dependency to their pom.xml for this 
 
 **Note**: The component currently only supports polling (consuming) feeds.
 
+**NOte**: You must include this repository in your *pom.xml*:
+ ```xml
+ <repositories>
+     <!-- GitHub Repository -->
+     <repository>
+         <id>camel-oaipmh-mvn-repo</id>
+         <url>https://raw.github.com/cabadol/camel-oaipmh/mvn-repo/</url>
+         <snapshots>
+             <enabled>true</enabled>
+             <updatePolicy>always</updatePolicy>
+         </snapshots>
+     </repository>
+ </repositories>
+ ```
+
 ## URI format
 
 ```txt
