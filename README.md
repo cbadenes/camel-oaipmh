@@ -16,7 +16,7 @@ Maven users will need to add the following dependency to their pom.xml for this 
 
 **Note**: The component currently only supports polling (consuming) feeds.
 
-**NOte**: You must include this repository in your *pom.xml*:
+**Note**: You must include this repository in your *pom.xml*:
  ```xml
  <repositories>
      <!-- GitHub Repository -->
