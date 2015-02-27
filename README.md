@@ -37,24 +37,23 @@ Maven users will need to add the following dependency to their pom.xml for this 
 oaipmh:oaipmhURI
 ```
 
-Where `oaipmhURI` is the URI to the OAI-PMH feed to poll.
+Where `oaipmhURI` is the URI to the OAI-PMH data provider to poll.
 
 You can append query options to the URI in the following format, `?option=value&option=value&`...
 
 ## Options
-
 | Property | Default  | Description |
 | :------- |:--------:| :---------- |
 | delay    | 60000    | Delay in milliseconds between each poll |
 | initialDelay    | 1000    | Milliseconds before polling starts |
 | userFixedDelay    | false    | Set to true to use fixed delay between pools, otherwise fixed rate is used. See [ScheduledExecutorService](http://docs.oracle.com/javase/1.5.0/docs/api/java/util/concurrent/ScheduledExecutorService.html) in JDK for details. |
-| verb    | ListRecords    | Retrieve records from a repository |
+| verb    | `ListRecords`    | Future versions will handle `ListIdentifiers`, `Identify`, `GetRecord`, `ListSets` and `ListMetadataFormats`. |
 | metadataPrefix    | oai_dc    | Specifies the [metadataPrefix](http://www.openarchives.org/OAI/openarchivesprotocol.html#metadataPrefix) of the format that should be included in the [metadata part of the returned records](http://www.openarchives.org/OAI/openarchivesprotocol.html#Record). |
-| from    | current    | Specifies a lower bound for datestamp-based [selective harvesting](http://www.openarchives.org/OAI/openarchivesprotocol.html#Datestamp). [UTC DateTime](http://www.openarchives.org/OAI/openarchivesprotocol.html#Dates) value|
+| from    | 1970-01-01T00:00:00Z    | Specifies a lower bound for datestamp-based [selective harvesting](http://www.openarchives.org/OAI/openarchivesprotocol.html#Datestamp). [UTC DateTime](http://www.openarchives.org/OAI/openarchivesprotocol.html#Dates) value. After first request, this value is updated to current time|
 
 ## Exchange data types
 
-Camel initializes the **In** body on the Exchange with a *ListRecords* response message in XML format. Camel returns a message for each *Record* received.
+Camel initializes the **IN** body on the Exchange with a response message in XML format. For `ListXX` requests, Camel will return a message for each element of the list received.
 
 ## Message Headers
 
