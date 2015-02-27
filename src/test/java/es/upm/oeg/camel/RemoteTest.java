@@ -9,9 +9,10 @@ import org.junit.Test;
 public class RemoteTest extends CamelTestSupport {
 
     @Test
+    @Ignore
     public void testOAIPMH() throws Exception {
         MockEndpoint mock = getMockEndpoint("mock:result");
-//        mock.expectedMinimumMessageCount(727);
+        mock.expectedMinimumMessageCount(727);
         Thread.currentThread().sleep(60000);
         assertMockEndpointsSatisfied();
 
@@ -23,11 +24,11 @@ public class RemoteTest extends CamelTestSupport {
 
         return new RouteBuilder() {
             public void configure() {
-                from("oaipmh://eprints.ucm.es/cgi/oai2?" +
-                        "delay=10000&" +
-                        "from=2015-02-27T13:00:00Z&"+
+                from("oaipmh://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/oai?" +
+                        "delay=60000&" +
+                        "from=2013-01-01T00:00:00Z&"+
                         "initialDelay=2000")
-//                        .unmarshal().jaxb("es.upm.oeg.camel.oaipmh.model")
+                        .unmarshal().jaxb("es.upm.oeg.camel.oaipmh.model")
                         //.to("stream:out");
                         .to("mock:result");
             }

@@ -3,10 +3,7 @@ package es.upm.oeg.camel.component;
 import es.upm.oeg.camel.dataformat.oaipmh.OAIPMHConverter;
 import es.upm.oeg.camel.oaipmh.handler.ResponseHandler;
 import es.upm.oeg.camel.oaipmh.handler.ResponseHandlerFactory;
-import es.upm.oeg.camel.oaipmh.model.OAIPMHerrorType;
-import es.upm.oeg.camel.oaipmh.model.OAIPMHtype;
-import es.upm.oeg.camel.oaipmh.model.ObjectFactory;
-import es.upm.oeg.camel.oaipmh.model.ResumptionTokenType;
+import es.upm.oeg.camel.oaipmh.model.*;
 import org.apache.camel.Processor;
 import org.apache.camel.impl.DefaultScheduledPollConsumer;
 import org.slf4j.Logger;
@@ -84,7 +81,16 @@ public class OAIPMHConsumer extends DefaultScheduledPollConsumer {
         List<OAIPMHerrorType> errors = message.getError();
         if ((errors != null) && (!errors.isEmpty())){
             for (OAIPMHerrorType error: errors){
-                LOG.error("Error on [{}] getting records: {}-{}", endpoint.getUrl(),error.getCode(), error.getValue());
+
+                switch(error.getCode()){
+                    case NO_RECORDS_MATCH:
+                    case NO_METADATA_FORMATS:
+                    case NO_SET_HIERARCHY:
+                        LOG.info("{} / {}",error.getCode(),error.getValue());
+                        break;
+                    default:
+                        LOG.error("Error on [{}] getting records: {}-{}", endpoint.getUrl(),error.getCode(), error.getValue());
+                }
             }
             return true;
         }
