@@ -78,3 +78,5 @@ The purpose of this feature is to make it possible to use Camel's lovely built-i
 ```txt
 from("oaipmh://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/oai?delay=60000").unmarshal().jaxb("es.upm.oeg.camel.oaipmh.model").filter().xpath("//item/request/set[contains(.,'physics')]").to("mock:result");
 ```
+
+This work is funded by the EC-funded project DrInventor ([www.drinventor.eu](www.drinventor.eu)).
