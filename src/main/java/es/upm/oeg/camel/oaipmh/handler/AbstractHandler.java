@@ -42,7 +42,7 @@ public abstract class AbstractHandler {
 
         try {
             // send message to next processor in the route
-            LOG.info("sending exchange: {}", exchange);
+            LOG.trace("sending exchange: {}", exchange);
             processor.process(exchange);
         }catch (Exception e){
             throw new RuntimeCamelException("Error sending exchange: "+exchange, e);
