@@ -40,9 +40,6 @@ public abstract class AbstractHandler {
         // create a message body
         exchange.getIn().setBody(xml);
 
-        // send java object in header
-        exchange.getIn().setHeader("OAIPMH.Message",message);
-
         try {
             // send message to next processor in the route
             LOG.info("sending exchange: {}", exchange);
