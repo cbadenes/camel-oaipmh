@@ -55,11 +55,6 @@ You can append query options to the URI in the following format, `?option=value&
 
 Camel initializes the **IN** body on the Exchange with a response message in XML format. For `ListXX` requests, Camel will return a message for each element of the list received.
 
-## Message Headers
-
-| Header | Description |
-| :------- |:--------:| :---------- |
-| `OAIPMH.Message`    | The `OAIPMHtype`message object |
 
 ## OAI-PMH Data Format
 
