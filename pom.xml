@@ -7,7 +7,7 @@
     <groupId>es.upm.oeg.camel</groupId>
     <artifactId>camel-oaipmh</artifactId>
     <packaging>bundle</packaging>
-    <version>1.0.2-SNAPSHOT</version>
+    <version>1.0.2</version>
 
     <name>Camel OAIPMH Component</name>
     <inceptionYear>2015</inceptionYear>
