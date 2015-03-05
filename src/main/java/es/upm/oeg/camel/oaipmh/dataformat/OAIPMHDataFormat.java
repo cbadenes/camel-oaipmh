@@ -1,4 +1,4 @@
-package es.upm.oeg.camel.dataformat.oaipmh;
+package es.upm.oeg.camel.oaipmh.dataformat;
 
 import es.upm.oeg.camel.oaipmh.model.OAIPMHtype;
 import org.apache.camel.Exchange;

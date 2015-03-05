@@ -1,6 +1,6 @@
 package es.upm.oeg.camel;
 
-import es.upm.oeg.camel.component.TimeUtils;
+import es.upm.oeg.camel.oaipmh.component.TimeUtils;
 import org.junit.Assert;
 import org.junit.Test;
 

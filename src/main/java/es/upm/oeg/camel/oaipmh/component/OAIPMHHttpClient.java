@@ -1,4 +1,4 @@
-package es.upm.oeg.camel.component;
+package es.upm.oeg.camel.oaipmh.component;
 
 import es.upm.oeg.camel.oaipmh.model.ResumptionTokenType;
 import org.apache.http.HttpEntity;

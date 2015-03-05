@@ -1,6 +1,6 @@
-package es.upm.oeg.camel.component;
+package es.upm.oeg.camel.oaipmh.component;
 
-import es.upm.oeg.camel.dataformat.oaipmh.OAIPMHConverter;
+import es.upm.oeg.camel.oaipmh.dataformat.OAIPMHConverter;
 import es.upm.oeg.camel.oaipmh.handler.ResponseHandler;
 import es.upm.oeg.camel.oaipmh.handler.ResponseHandlerFactory;
 import es.upm.oeg.camel.oaipmh.model.*;

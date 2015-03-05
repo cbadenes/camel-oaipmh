@@ -7,7 +7,7 @@
     <groupId>es.upm.oeg.camel</groupId>
     <artifactId>camel-oaipmh</artifactId>
     <packaging>bundle</packaging>
-    <version>1.0.2</version>
+    <version>1.0.3</version>
 
     <name>Camel OAIPMH Component</name>
     <inceptionYear>2015</inceptionYear>
@@ -92,18 +92,6 @@
 
     <build>
         <defaultGoal>install</defaultGoal>
-        <pluginManagement>
-            <plugins>
-                <plugin>
-                    <groupId>org.apache.maven.plugins</groupId>
-                    <artifactId>maven-compiler-plugin</artifactId>
-                    <configuration>
-                        <source>${java.version}</source>
-                        <target>${java.version}</target>
-                    </configuration>
-                </plugin>
-            </plugins>
-        </pluginManagement>
         <plugins>
             <plugin>
                 <!-- We use this plugin to ensure that our usage of the
@@ -179,7 +167,7 @@
                 <extensions>true</extensions>
                 <configuration>
                     <instructions>
-                        <Bundle-SymbolicName>es.upm.oeg.camel.component.camel-oaipmh</Bundle-SymbolicName>
+                        <Bundle-SymbolicName>es.upm.oeg.camel.oaipmh.component.camel-oaipmh</Bundle-SymbolicName>
                         <Export-Service>org.apache.camel.spi.ComponentResolver;component=oaipmh</Export-Service>
                     </instructions>
                 </configuration>

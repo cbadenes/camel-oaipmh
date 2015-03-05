@@ -1,6 +1,6 @@
 package es.upm.oeg.camel;
 
-import es.upm.oeg.camel.dataformat.oaipmh.OAIPMHConverter;
+import es.upm.oeg.camel.oaipmh.dataformat.OAIPMHConverter;
 import es.upm.oeg.camel.oaipmh.model.*;
 import org.junit.Assert;
 import org.junit.Test;

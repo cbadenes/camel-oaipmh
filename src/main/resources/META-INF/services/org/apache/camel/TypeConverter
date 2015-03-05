@@ -15,4 +15,4 @@
 # limitations under the License.
 #
 
-es.upm.oeg.camel.dataformat.oaipmh.OAIPMHConverter
+es.upm.oeg.camel.oaipmh.dataformat.OAIPMHConverter

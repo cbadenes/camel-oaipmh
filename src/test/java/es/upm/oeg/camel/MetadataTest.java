@@ -1,7 +1,7 @@
 package es.upm.oeg.camel;
 
 
-import es.upm.oeg.camel.dataformat.oaipmh.OAIPMHConverter;
+import es.upm.oeg.camel.oaipmh.dataformat.OAIPMHConverter;
 import es.upm.oeg.camel.oaipmh.model.ElementType;
 import es.upm.oeg.camel.oaipmh.model.OAIPMHtype;
 import es.upm.oeg.camel.oaipmh.model.RecordType;
@@ -11,7 +11,6 @@ import org.junit.Test;
 
 import javax.xml.bind.JAXBElement;
 import javax.xml.bind.JAXBException;
-import javax.xml.namespace.QName;
 import java.util.List;
 
 public class MetadataTest {
