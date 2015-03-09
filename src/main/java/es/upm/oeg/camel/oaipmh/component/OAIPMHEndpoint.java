@@ -43,7 +43,7 @@ public class OAIPMHEndpoint extends DefaultPollingEndpoint {
 
     private void validateParameters(){
         // From parameter in ISO 8601 format
-        ISODateTimeFormat.dateTimeNoMillis().parseDateTime(from);
+        if (from != null) ISODateTimeFormat.dateTimeNoMillis().parseDateTime(from);
     }
 
     public boolean isSingleton() {
