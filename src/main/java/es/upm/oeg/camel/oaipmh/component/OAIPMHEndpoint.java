@@ -17,7 +17,7 @@ public class OAIPMHEndpoint extends DefaultPollingEndpoint {
     private final String url;
 
     @UriParam
-    private String from = TimeUtils.current();
+    private String from;
     @UriParam
     private String verb = "ListRecords";
     @UriParam

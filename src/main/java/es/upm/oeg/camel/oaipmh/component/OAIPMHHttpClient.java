@@ -35,10 +35,9 @@ public class OAIPMHHttpClient {
             if (token != null){
                 builder.addParameter("resumptionToken", String.valueOf(token.getValue()));
             }else {
-                builder.addParameter("metadataPrefix", metadataPrefix)
-                        .addParameter("from", from);
+                builder.addParameter("metadataPrefix", metadataPrefix);
+                if (from != null) builder.addParameter("from", from);
             }
-
 
             HttpGet httpget = new HttpGet(builder.build());
 
