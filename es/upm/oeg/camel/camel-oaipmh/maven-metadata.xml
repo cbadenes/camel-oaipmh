@@ -3,10 +3,10 @@
   <groupId>es.upm.oeg.camel</groupId>
   <artifactId>camel-oaipmh</artifactId>
   <versioning>
-    <release>1.0.3</release>
+    <release>1.0.4</release>
     <versions>
-      <version>1.0.3</version>
+      <version>1.0.4</version>
     </versions>
-    <lastUpdated>20150305160428</lastUpdated>
+    <lastUpdated>20150309155357</lastUpdated>
   </versioning>
 </metadata>
