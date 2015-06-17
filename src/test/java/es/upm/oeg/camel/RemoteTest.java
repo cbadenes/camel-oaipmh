@@ -24,9 +24,10 @@ public class RemoteTest extends CamelTestSupport {
 
         return new RouteBuilder() {
             public void configure() {
-                from("oaipmh://aprendeenlinea.udea.edu.co/revistas/index.php/ingenieria/oai?" +
+                from("oaipmh://oa.upm.es/perl/oai2?" +
                         "delay=60000&" +
-                        "from=2013-01-01T00:00:00Z&"+
+                        "from=2015-04-01T00:00:00Z&"+
+                        "until=2015-05-01T00:00:00Z&"+
                         "initialDelay=2000")
                         .unmarshal().jaxb("es.upm.oeg.camel.oaipmh.model")
                         //.to("stream:out");

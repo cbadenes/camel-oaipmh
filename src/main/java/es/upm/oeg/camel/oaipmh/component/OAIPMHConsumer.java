@@ -43,7 +43,7 @@ public class OAIPMHConsumer extends DefaultScheduledPollConsumer {
         this.baseURI    = URI.create("http://" + endpoint.getUrl());
         this.verb       = endpoint.getVerb();
         this.metadata   = endpoint.getMetadataPrefix();
-        this.until      = null; // future feature
+        this.until      = endpoint.getUntil();
         this.handler    = ResponseHandlerFactory.newInstance(this,verb);
     }
 
@@ -56,8 +56,10 @@ public class OAIPMHConsumer extends DefaultScheduledPollConsumer {
         // request 'verb' to remote data provider
         String responseXML = httpClient.doRequest(baseURI,verb,from,until,metadata,token);
 
-        // Update reference time
-        this.from = TimeUtils.current();
+        if (this.until == null || !this.until.trim().equals("")) {
+            // Update reference time to current instant
+            this.from = TimeUtils.current();
+        }
 
         // build a java object from xml
         OAIPMHtype responseObject = OAIPMHConverter.xmlToOaipmh(responseXML);

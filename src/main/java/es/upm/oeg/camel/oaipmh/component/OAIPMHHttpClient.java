@@ -37,6 +37,7 @@ public class OAIPMHHttpClient {
             }else {
                 builder.addParameter("metadataPrefix", metadataPrefix);
                 if (from != null) builder.addParameter("from", from);
+                if (until != null) builder.addParameter("until", until);
             }
 
             HttpGet httpget = new HttpGet(builder.build());

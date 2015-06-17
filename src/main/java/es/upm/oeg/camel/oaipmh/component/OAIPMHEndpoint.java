@@ -19,6 +19,8 @@ public class OAIPMHEndpoint extends DefaultPollingEndpoint {
     @UriParam
     private String from;
     @UriParam
+    private String until;
+    @UriParam
     private String verb = "ListRecords";
     @UriParam
     private String metadataPrefix = "oai_dc";
@@ -44,6 +46,7 @@ public class OAIPMHEndpoint extends DefaultPollingEndpoint {
     private void validateParameters(){
         // From parameter in ISO 8601 format
         if (from != null) ISODateTimeFormat.dateTimeNoMillis().parseDateTime(from);
+        if (until != null) ISODateTimeFormat.dateTimeNoMillis().parseDateTime(until);
     }
 
     public boolean isSingleton() {
