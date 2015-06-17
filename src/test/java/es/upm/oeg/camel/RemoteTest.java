@@ -13,7 +13,7 @@ public class RemoteTest extends CamelTestSupport {
     public void testOAIPMH() throws Exception {
         MockEndpoint mock = getMockEndpoint("mock:result");
         mock.expectedMinimumMessageCount(727);
-        Thread.currentThread().sleep(60000);
+        Thread.currentThread().sleep(600000);
         assertMockEndpointsSatisfied();
 
 
@@ -25,7 +25,7 @@ public class RemoteTest extends CamelTestSupport {
         return new RouteBuilder() {
             public void configure() {
                 from("oaipmh://oa.upm.es/perl/oai2?" +
-                        "delay=60000&" +
+                        "delay=2000&" +
                         "from=2015-04-01T00:00:00Z&"+
                         "until=2015-05-01T00:00:00Z&"+
                         "initialDelay=2000")

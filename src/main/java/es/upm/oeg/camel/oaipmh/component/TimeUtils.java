@@ -18,10 +18,12 @@ public class TimeUtils {
 
 
     public static String toISO(Long time, String timeZone){
-
         DateTimeZone timezone = DateTimeZone.forID(timeZone);
         return ISODateTimeFormat.dateTimeNoMillis().withZone(timezone).print(time);
     }
 
+    public static Long fromISO(String time){
+        return ISODateTimeFormat.dateTimeNoMillis().parseMillis(time);
+    }
 
 }

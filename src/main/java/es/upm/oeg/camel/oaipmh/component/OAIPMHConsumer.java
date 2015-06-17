@@ -53,13 +53,24 @@ public class OAIPMHConsumer extends DefaultScheduledPollConsumer {
     }
 
     protected int poll(ResumptionTokenType token) throws IOException, URISyntaxException, JAXBException {
+
+        // if 'from' more actual than 'until' and not 'resumptionToken', then exit (it means that polling has been already done)
+
+        // selective harvesting
+        if (this.until != null && !this.until.trim().equals("")) {
+            // only when 'from' is older than 'until' then it is valid
+            if (token == null && (TimeUtils.fromISO(this.from)>TimeUtils.fromISO(this.until))){
+                LOG.info("System goes down because time window has been requested.");
+                System.exit(0);
+            }
+        }
+
         // request 'verb' to remote data provider
         String responseXML = httpClient.doRequest(baseURI,verb,from,until,metadata,token);
 
-        if (this.until == null || !this.until.trim().equals("")) {
-            // Update reference time to current instant
-            this.from = TimeUtils.current();
-        }
+        // Update reference time to current instant
+        this.from = TimeUtils.current();
+
 
         // build a java object from xml
         OAIPMHtype responseObject = OAIPMHConverter.xmlToOaipmh(responseXML);
@@ -75,7 +86,9 @@ public class OAIPMHConsumer extends DefaultScheduledPollConsumer {
 
         // Check if incomplete list
         ResumptionTokenType newToken = responseObject.getListRecords().getResumptionToken();
-        return ((newToken != null) && (newToken.getValue() != null) && !(newToken.getValue().startsWith(" ")))? poll(newToken) : 1;
+
+        boolean resume = (newToken != null) && (newToken.getValue() != null) && !(newToken.getValue().startsWith(" "));
+        return (resume)? poll(newToken) : 1;
     }
 
 
