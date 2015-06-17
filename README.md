@@ -50,7 +50,7 @@ You can append query options to the URI in the following format, `?option=value&
 | verb    | `ListRecords`    | Future versions will handle `ListIdentifiers`, `Identify`, `GetRecord`, `ListSets` and `ListMetadataFormats`. |
 | metadataPrefix    | oai_dc    | Specifies the [metadataPrefix](http://www.openarchives.org/OAI/openarchivesprotocol.html#metadataPrefix) of the format that should be included in the [metadata part of the returned records](http://www.openarchives.org/OAI/openarchivesprotocol.html#Record). |
 | from    |     | Specifies a lower bound for datestamp-based [selective harvesting](http://www.openarchives.org/OAI/openarchivesprotocol.html#Datestamp). [UTC DateTime](http://www.openarchives.org/OAI/openarchivesprotocol.html#Dates) value. After first request, this value is updated to current time if no upper bound is defined|
-| until    |     | Specifies a upper bound for datestamp-based [selective harvesting](http://www.openarchives.org/OAI/openarchivesprotocol.html#Datestamp). [UTC DateTime](http://www.openarchives.org/OAI/openarchivesprotocol.html#Dates) value. This value is maintained|
+| until    |     | Specifies an upper bound for datestamp-based [selective harvesting](http://www.openarchives.org/OAI/openarchivesprotocol.html#Datestamp). [UTC DateTime](http://www.openarchives.org/OAI/openarchivesprotocol.html#Dates) value. |
 
 ## Exchange data types
 
