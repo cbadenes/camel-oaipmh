@@ -22,7 +22,7 @@ public class OAIPMHHttpClient {
 
     private static final Logger LOG = LoggerFactory.getLogger(OAIPMHHttpClient.class);
 
-    public String doRequest(URI baseURI, String verb, String from, String until, String metadataPrefix, ResumptionTokenType token) throws IOException, URISyntaxException {
+    public String doRequest(URI baseURI, String verb, String set, String from, String until, String metadataPrefix, ResumptionTokenType token) throws IOException, URISyntaxException {
         CloseableHttpClient httpclient = HttpClients.createDefault();
         try {
 
@@ -36,6 +36,7 @@ public class OAIPMHHttpClient {
                 builder.addParameter("resumptionToken", String.valueOf(token.getValue()));
             }else {
                 builder.addParameter("metadataPrefix", metadataPrefix);
+                if (set != null) builder.addParameter("set", set);
                 if (from != null) builder.addParameter("from", from);
                 if (until != null) builder.addParameter("until", until);
             }

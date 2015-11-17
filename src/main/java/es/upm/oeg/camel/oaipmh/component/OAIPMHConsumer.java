@@ -33,6 +33,7 @@ public class OAIPMHConsumer extends DefaultScheduledPollConsumer {
     private final ResponseHandler handler;
     private String until;
     private String from;
+    private String set;
 
     public OAIPMHConsumer(OAIPMHEndpoint endpoint, Processor processor) throws JAXBException {
         super(endpoint, processor);
@@ -42,6 +43,7 @@ public class OAIPMHConsumer extends DefaultScheduledPollConsumer {
         this.from       = endpoint.getFrom();
         this.baseURI    = URI.create("http://" + endpoint.getUrl());
         this.verb       = endpoint.getVerb();
+        this.set        = endpoint.getSet();
         this.metadata   = endpoint.getMetadataPrefix();
         this.until      = endpoint.getUntil();
         this.handler    = ResponseHandlerFactory.newInstance(this,verb);
@@ -66,7 +68,7 @@ public class OAIPMHConsumer extends DefaultScheduledPollConsumer {
         }
 
         // request 'verb' to remote data provider
-        String responseXML = httpClient.doRequest(baseURI,verb,from,until,metadata,token);
+        String responseXML = httpClient.doRequest(baseURI,verb,set,from,until,metadata,token);
 
         // Update reference time to current instant
         this.from = TimeUtils.current();

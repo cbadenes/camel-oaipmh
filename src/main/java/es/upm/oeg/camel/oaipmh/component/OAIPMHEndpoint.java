@@ -21,6 +21,8 @@ public class OAIPMHEndpoint extends DefaultPollingEndpoint {
     @UriParam
     private String until;
     @UriParam
+    private String set;
+    @UriParam
     private String verb = "ListRecords";
     @UriParam
     private String metadataPrefix = "oai_dc";
