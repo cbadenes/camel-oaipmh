@@ -22,7 +22,7 @@ Maven users will need to add the following dependency to their pom.xml for this 
      <!-- GitHub Repository -->
      <repository>
          <id>camel-oaipmh-mvn-repo</id>
-         <url>https://raw.github.com/cabadol/camel-oaipmh/mvn-repo/</url>
+         <url>https://raw.github.com/cbadenes/camel-oaipmh/mvn-repo/</url>
          <snapshots>
              <enabled>true</enabled>
              <updatePolicy>always</updatePolicy>
