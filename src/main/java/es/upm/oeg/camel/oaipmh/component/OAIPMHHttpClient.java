@@ -23,12 +23,13 @@ public class OAIPMHHttpClient {
     private static final Logger LOG = LoggerFactory.getLogger(OAIPMHHttpClient.class);
 
     public String doRequest(URI baseURI, String verb, String set, String from, String until, String metadataPrefix, ResumptionTokenType token) throws IOException, URISyntaxException {
-        CloseableHttpClient httpclient = HttpClients.createDefault();
+        CloseableHttpClient httpclient = getCloseableHttpClient();
         try {
 
             URIBuilder builder = new URIBuilder();
             builder.setScheme(baseURI.getScheme())
                     .setHost(baseURI.getHost())
+                    .setPort(baseURI.getPort())
                     .setPath(baseURI.getPath())
                     .addParameter("verb", verb);
 
@@ -69,6 +70,9 @@ public class OAIPMHHttpClient {
         }
     }
 
+    protected CloseableHttpClient getCloseableHttpClient() {
+        return HttpClients.createDefault();
+    }
 
 
 }
