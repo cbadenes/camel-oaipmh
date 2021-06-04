@@ -22,7 +22,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <camel.version>2.14.1</camel.version>
-        <httpclient.version>4.4</httpclient.version>
+        <httpclient.version>4.5.13</httpclient.version>
         <java.version>1.8</java.version>
         <jaxb2.version>1.6</jaxb2.version>
         <joda.version>2.7</joda.version>
